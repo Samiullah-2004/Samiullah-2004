@@ -51,6 +51,7 @@ const samiullah = {
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
 
@@ -62,6 +63,7 @@ const samiullah = {
 
 | &nbsp; | Project | Description | Live |
 |--------|---------|-------------|------|
+| 📋 | **Paste App** | A React-based paste/snippet sharing app built with React & deployed on Vercel | [▶ View Live](https://paste-app-pied-iota.vercel.app/) |
 | 💹 | **Crypto Price Tracker** | Real-time prices, market cap & 24h changes for top 10 coins via CoinGecko API | [▶ View Live](https://samiullah-2004.github.io/Crypto-Price-Tracker/) |
 | 🌤 | **Skycast Weather App** | Live weather conditions using Open-Meteo API — no API key required | [▶ View Live](https://samiullah-2004.github.io/Skycast-Weather-App/) |
 | 💱 | **Currency Exchange App** | Responsive exchange app with dark navy theme & smooth animations | [▶ View Live](https://samiullah-2004.github.io/Currency-Exchange-App/) |
