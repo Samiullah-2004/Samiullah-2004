@@ -12,6 +12,9 @@
   <a href="https://instagram.com/_s_a_m_i_u_l_l_a_h_">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
+  <a href="https://samiullah-portfolio-orpin.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-00ff66?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
 </div>
 
 <br/>
@@ -63,6 +66,7 @@ const samiullah = {
 
 | &nbsp; | Project | Description | Live |
 |--------|---------|-------------|------|
+| 🌐 | **Portfolio Website** | Personal portfolio built with React.js, Tailwind CSS & deployed on Vercel | [▶ View Live](https://samiullah-portfolio-orpin.vercel.app/) |
 | 📋 | **Paste App** | A React-based paste/snippet sharing app built with React & deployed on Vercel | [▶ View Live](https://paste-app-pied-iota.vercel.app/) |
 | 💹 | **Crypto Price Tracker** | Real-time prices, market cap & 24h changes for top 10 coins via CoinGecko API | [▶ View Live](https://samiullah-2004.github.io/Crypto-Price-Tracker/) |
 | 🌤 | **Skycast Weather App** | Live weather conditions using Open-Meteo API — no API key required | [▶ View Live](https://samiullah-2004.github.io/Skycast-Weather-App/) |
