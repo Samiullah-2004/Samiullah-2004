@@ -73,6 +73,7 @@ const samiullah = {
 |--------|---------|-------------|------|
 | 🛍️ | **Stowe — E-Commerce Store** | Full-stack bag store with auth, cart, checkout, inventory & admin dashboard — Node.js, Express, MongoDB, EJS | [▶ View Live](https://stowe-bags.up.railway.app/) |
 | 🌐 | **Portfolio Website** | Personal portfolio built with React.js, Tailwind CSS & deployed on Vercel | [▶ View Live](https://samiullah-portfolio-orpin.vercel.app/) |
+| ♟️ | **OnyxChess — Multiplayer Chess** | Real-time two-player chess with full move validation, legal move highlighting, drag & drop, spectator mode — Node.js, Socket.IO, chess.js | — |
 | 📋 | **Paste App** | A React-based paste/snippet sharing app built with React & deployed on Vercel | [▶ View Live](https://paste-app-pied-iota.vercel.app/) |
 | 💹 | **Crypto Price Tracker** | Real-time prices, market cap & 24h changes for top 10 coins via CoinGecko API | [▶ View Live](https://samiullah-2004.github.io/Crypto-Price-Tracker/) |
 | 🌤 | **Skycast Weather App** | Live weather conditions using Open-Meteo API — no API key required | [▶ View Live](https://samiullah-2004.github.io/Skycast-Weather-App/) |
