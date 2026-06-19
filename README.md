@@ -20,7 +20,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+MongoDB+%7C+Tailwind+CSS;Building+real+apps%2C+not+just+tutorials;Open+to+internships+%26+freelance+work" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;React.js+%7C+Node.js+%7C+MongoDB+%7C+Socket.IO;Building+real+apps%2C+not+just+tutorials;Open+to+internships+%26+freelance+work" alt="Typing SVG"/>
 </div>
 
 ---
@@ -29,7 +29,7 @@
 const samiullah = {
   location: "Lahore, Pakistan 🇵🇰",
   education: "BSCS @ Alhamra University (NCBA&E) — Semester 4",
-  stack: ["HTML5", "CSS3", "JavaScript", "React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB"],
+  stack: ["HTML5", "CSS3", "JavaScript", "React.js", "Tailwind CSS", "Node.js", "Express.js", "MongoDB", "Socket.IO"],
   interests: ["Full Stack Development", "Fintech", "Crypto Markets"],
   currentlyLearning: "Deepening MERN Stack — auth, deployment & real-world architecture",
   goal: "Build production-ready apps & work remotely",
@@ -54,6 +54,7 @@ const samiullah = {
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -73,7 +74,8 @@ const samiullah = {
 |--------|---------|-------------|------|
 | 🛍️ | **Stowe — E-Commerce Store** | Full-stack bag store with auth, cart, checkout, inventory & admin dashboard — Node.js, Express, MongoDB, EJS | [▶ View Live](https://stowe-bags.up.railway.app/) |
 | 🌐 | **Portfolio Website** | Personal portfolio built with React.js, Tailwind CSS & deployed on Vercel | [▶ View Live](https://samiullah-portfolio-orpin.vercel.app/) |
-| ♟️ | **OnyxChess — Multiplayer Chess** | Real-time two-player chess with full move validation, legal move highlighting, drag & drop, spectator mode — Node.js, Socket.IO, chess.js | — |
+| ♟️ | **OnyxChess — Multiplayer Chess** | Real-time two-player chess with full move validation, legal move highlighting, drag & drop, spectator mode — Node.js, Socket.IO, chess.js | [▶ View on GitHub](https://github.com/Samiullah-2004/OnyxChess) |
+| 📍 | **LivePin — Location Tracker** | Real-time multi-user location tracking with live map, pulsing markers & coordinates panel — Node.js, Socket.IO, Leaflet.js | [▶ View on GitHub](https://github.com/Samiullah-2004/LivePin) |
 | 📋 | **Paste App** | A React-based paste/snippet sharing app built with React & deployed on Vercel | [▶ View Live](https://paste-app-pied-iota.vercel.app/) |
 | 💹 | **Crypto Price Tracker** | Real-time prices, market cap & 24h changes for top 10 coins via CoinGecko API | [▶ View Live](https://samiullah-2004.github.io/Crypto-Price-Tracker/) |
 | 🌤 | **Skycast Weather App** | Live weather conditions using Open-Meteo API — no API key required | [▶ View Live](https://samiullah-2004.github.io/Skycast-Weather-App/) |
