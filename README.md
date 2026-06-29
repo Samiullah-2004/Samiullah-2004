@@ -1,20 +1,12 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Samiullah%20Akram&fontSize=50&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Web%20Developer&descAlignY=55&descSize=20&descColor=a78bfa" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,30:8b5cf6,60:a855f7,100:0f0c29&height=280&section=header&text=Samiullah%20Akram&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=22&descColor=e0d7ff&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/samiullah-akram-a28461404/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:samiullah.akram.3009@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://instagram.com/_s_a_m_i_u_l_l_a_h_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-  <a href="https://samiullah-portfolio-orpin.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-00ff66?style=for-the-badge&logo=vercel&logoColor=black"/>
-  </a>
+  <a href="https://www.linkedin.com/in/samiullah-akram-a28461404/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.upwork.com/freelancers/samiullahakram"><img src="https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+    <a href="https://samiullah-portfolio-orpin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-00ff66?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+    <a href="mailto:samiullah.akram.3009@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br/>
@@ -45,36 +37,24 @@ const samiullah = {
 
 ---
 
-## ⚡ Tech Stack
+## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=for-the-badge&logo=zod&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge&logo=reacthookform&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+| 🏗️ Backend & Databases | 🌐 Frontend & Frameworks | 🚀 Tools & Deployment |
+|:---:|:---:|:---:|
+| <br><img src="https://skillicons.dev/icons?i=nodejs,express,ts,postgres,mongodb,prisma,supabase,redis,mysql,sqlite,graphql,firebase&perline=4" /><br> | <br><img src="https://skillicons.dev/icons?i=react,vite,tailwind,js,html,css,redux,nextjs,sass,bootstrap,figma,svg&perline=4" /><br> | <br><img src="https://skillicons.dev/icons?i=git,github,vercel,railway,docker,postman,vscode,npm,yarn,linux,nginx,cloudflare&perline=4" /><br> |
 
+<br>
+
+| 🔐 Auth & Security | ⚡ Real-time & APIs | 📦 Libraries & More |
+|:---:|:---:|:---:|
+| <br><img src="https://skillicons.dev/icons?i=nodejs,ts,js,postgres,mongodb,mysql,sqlite,redis,supabase,firebase,appwrite,dynamodb&perline=4" /><br> | <br><img src="https://skillicons.dev/icons?i=socketio,graphql,nginx,cloudflare,docker,kubernetes,aws,gcp,azure,vercel,netlify,heroku&perline=4" /><br> | <br><img src="https://skillicons.dev/icons?i=vscode,visualstudio,postman,figma,notion,obsidian,discord,slack,stackoverflow,github,gitlab,npm&perline=4" /><br> |
+
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
 ---
@@ -117,7 +97,7 @@ const samiullah = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:6366f1,60:8b5cf6,100:a855f7&height=120&section=footer" width="100%"/>
 </div>
 
 <div align="center">
