@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/samiullah-akram-a28461404/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.upwork.com/freelancers/samiullahakram"><img src="https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+    <a href="https://www.upwork.com/freelancers/~01ffa5cf678d8eff63"><img src="https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
     <a href="https://samiullah-portfolio-orpin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-00ff66?style=for-the-badge&logo=vercel&logoColor=black"/></a>
     <a href="mailto:samiullah.akram.3009@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
