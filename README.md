@@ -65,7 +65,7 @@ const samiullah = {
 
 | &nbsp; | Project | Description | Live |
 |--------|---------|-------------|------|
-| 🤖 | **ResumeForge AI: AI Resume Tailoring Platform** | Full-stack AI application that analyzes job descriptions and tailors resumes to match, using live LLM inference via Groq. Built end to end with Next.js and TypeScript, PostgreSQL (Prisma ORM) and JWT auth — React, Vite, TypeScript, Node.js, Express, PostgreSQL (Supabase), Prisma ORM, Tailwind CSS | [▶ View Live](#) |
+| 🤖 | **ResumeForge AI: AI Resume Tailoring Platform** | Full-stack AI application that analyzes job descriptions and tailors resumes to match, using live LLM inference via Groq. Built end to end with Next.js and TypeScript, PostgreSQL (Prisma ORM) and JWT auth — React, Vite, TypeScript, Node.js, Express, PostgreSQL (Supabase), Prisma ORM, Tailwind CSS | [▶ View Live](https://resumeforge-puce.vercel.app/) |
 | 🧾 | **BillMate: Invoicing SaaS** | Full-stack invoicing SaaS for freelancers. JWT auth, client management, auto invoice numbering, payment status tracking, live earnings dashboard — React, Vite, TypeScript, Node.js, Express, PostgreSQL (Supabase), Prisma ORM, Tailwind CSS | [▶ View Live](https://bill-mate-three.vercel.app/) |
 | 🛍️ | **Stowe: E-Commerce Store** | Full-stack bag store with JWT auth, shopping cart, checkout, live stock management, order history & owner admin dashboard — Node.js, Express, MongoDB, Mongoose, EJS, Tailwind CSS | [▶ View Live](https://stowe-bags.up.railway.app/) |
 | ♟️ | **OnyxChess: Multiplayer Chess** | Real-time two-player chess with full move validation, legal move highlighting, drag & drop, check/checkmate detection & spectator mode — Node.js, Socket.IO, chess.js | [▶ View on GitHub](https://github.com/Samiullah-2004/OnyxChess) |
@@ -74,8 +74,6 @@ const samiullah = {
 | 🌐 | **Portfolio Website** | Personal portfolio with GSAP scroll animations, green curtain transitions & project detail pages — React.js, Tailwind CSS, GSAP | [▶ View Live](https://samiullah-portfolio-orpin.vercel.app/) |
 | 📋 | **Paste App** | Snippet sharing app with create, edit, delete & copy functionality — React, Redux Toolkit, React Router | [▶ View Live](https://paste-app-pied-iota.vercel.app/) |
 | 💹 | **Crypto Price Tracker** | Real-time prices, market cap & 24h changes for top 10 coins via CoinGecko API — React, Tailwind CSS | [▶ View Live](https://samiullah-2004.github.io/Crypto-Price-Tracker/) |
-| 🌤 | **Skycast Weather App** | Live weather conditions, wind speed & humidity using Open-Meteo API — React, Tailwind CSS | [▶ View Live](https://samiullah-2004.github.io/Skycast-Weather-App/) |
-| 💱 | **Currency Exchange App** | Real-time currency conversion with dark navy theme & smooth animations — React, Tailwind CSS | [▶ View Live](https://samiullah-2004.github.io/Currency-Exchange-App/) |
 
 </div>
 
