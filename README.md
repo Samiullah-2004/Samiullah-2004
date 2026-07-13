@@ -1,56 +1,119 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,30:8b5cf6,60:a855f7,100:0f0c29&height=280&section=header&text=Samiullah%20Akram&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer&descAlignY=58&descSize=22&descColor=e0d7ff&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:334155,100:1e293b&height=280&section=header&text=Samiullah%20Akram&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20AI%20Integrations&descAlignY=58&descSize=20&descColor=94a3b8&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/samiullah-akram-a28461404/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="https://www.upwork.com/freelancers/~01ffa5cf678d8eff63"><img src="https://img.shields.io/badge/Upwork-Profile-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
-    <a href="https://samiullah-portfolio-orpin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-00ff66?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-    <a href="mailto:samiullah.akram.3009@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/samiullah-akram-a28461404/"><img src="https://img.shields.io/badge/LinkedIn-Profile-38BDF8?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="https://www.upwork.com/freelancers/~01ffa5cf678d8eff63"><img src="https://img.shields.io/badge/Upwork-Profile-38BDF8?style=for-the-badge&logo=upwork&logoColor=black"/></a>
+  <a href="https://samiullah-portfolio-orpin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <a href="mailto:samiullah.akram.3009@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 </div>
 
 <br/>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Full+Stack+Web+Developer;Node.js+%7C+Express.js+%7C+PostgreSQL+%7C+Prisma;React.js+%7C+Next.js+%7C+TypeScript+%7C+Tailwind+CSS;MongoDB+%7C+Socket.IO+%7C+JWT+%7C+Supabase;Building+real+apps%2C+not+just+tutorials;Open+to+Remote+%26+Freelance+Work" alt="Typing SVG"/>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1400&color=38BDF8&center=true&vCenter=true&width=880&lines=Full+Stack+Web+Developer+%E2%80%94+Node.js+%7C+Next.js+%7C+TypeScript;RAG+Pipelines+%7C+Vector+Search+%7C+LLM+Integrations;PostgreSQL+%7C+Prisma+%7C+MongoDB+%7C+Socket.IO;Shipping+production+SaaS%2C+not+just+tutorials;Building+from+Lahore%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Open+to+Remote+%26+Freelance+Work+%F0%9F%9A%80" alt="Typing SVG"/>
+</p>
 
 ---
 
 ```javascript
 const samiullah = {
   location: "Lahore, Pakistan 🇵🇰",
-  education: "BSCS @ Alhamra University (NCBA&E), Semester 4",
-  stack: [
-    "Node.js", "Express.js", "PostgreSQL", "Prisma ORM",
-    "MongoDB", "Mongoose", "Socket.IO", "JWT", "bcrypt", "Zod", "Multer",
-    "TypeScript", "React.js", "Next.js", "Vite", "Tailwind CSS", "Redux",
-    "HTML5", "CSS3", "JavaScript",
-    "Git", "GitHub", "Vercel", "Railway", "Supabase"
-  ],
-  interests: ["Full Stack Development", "SaaS Products", "Fintech", "Crypto Markets"],
-  currentlyLearning: "AI-powered app development with LLMs (Groq) and advanced Next.js patterns",
-  goal: "Build production-ready apps, work remotely & freelance",
-  funFact: "I track Binance markets daily & built my own crypto tracker 📈"
+  education: "BSCS @ Alhamra University (NCBA&E) — Semester 4, CGPA 3.67/4.0",
+
+  role: "Full Stack Web Developer",
+
+  coreStack: {
+    frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Redux", "GSAP"],
+    backend: ["Node.js", "Express.js", "REST APIs", "JWT", "bcrypt", "Zod"],
+    databases: ["PostgreSQL", "Prisma ORM", "MongoDB", "Mongoose"],
+    realtime: ["Socket.IO", "WebSockets"],
+    ai: ["Groq (Llama 3.3)", "Hugging Face Embeddings", "pgvector", "RAG Pipelines"],
+    tools: ["Git", "GitHub", "Vercel", "Railway", "Supabase", "Postman"],
+  },
+
+  experience: "Web Development Intern @ Qwetrum Technologies (June 2026)",
+
+  currentlyBuilding: "ChatSpark AI — RAG-based AI chatbot SaaS with pgvector + Groq",
+
+  currentlyLearning: "Advanced backend architecture, PostgreSQL internals, production-grade auth patterns",
+
+  freelance: "Actively taking projects on Upwork — remote-first",
+
+  motivation: "Youngest in my family, lost my father in 2022 — building a real career is personal, not just professional",
+
+  funFact: "I follow crypto and financial markets daily 📈",
+
+  goal: "Land a remote full-stack role or grow a freelance client base building real, production-ready products",
 };
 ```
 
 ---
 
-## 🛠️ Tech Stack & Tools
+## 🛠 Tech Stack
 
 <div align="center">
-
-| 🏗️ Backend & Databases | 🌐 Frontend & Frameworks | 🚀 Tools & Deployment |
-|:---|:---|:---|
-| <img src="https://skillicons.dev/icons?i=nodejs,express,ts,postgres,mysql,sqlite,mongodb,prisma,supabase&perline=4" /> | <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,js,html,css,redux&perline=4" /> | <img src="https://skillicons.dev/icons?i=git,github,vercel,railway,postman,vscode,npm&perline=4" /> |
-
-<br>
-
-| 🔐 Auth & Security | ⚡ Real-time & APIs | 📦 Libraries & More |
-|:---|:---|:---|
-| <img src="https://skillicons.dev/icons?i=nodejs,ts,express,postgres,mongodb,prisma&perline=4" /> | <img src="https://skillicons.dev/icons?i=socketio,express,nodejs,vercel,railway&perline=4" /> | <img src="https://skillicons.dev/icons?i=vscode,postman,git,github,npm&perline=4" /> |
-
+<table width="100%">
+  <tr>
+    <td align="center" width="33.33%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <h3>🌐 &nbsp; Frontend</h3>
+      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux&perline=3&theme=dark"/>
+      <br/><br/>
+      <sub><b>React.js · Next.js (App Router)</b><br/>TypeScript · Tailwind CSS<br/>Redux · GSAP · HTML5 · CSS3</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="33.33%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <h3>⚙️ &nbsp; Backend</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,ts&perline=3&theme=dark"/>
+      <br/><br/>
+      <sub><b>Node.js · Express.js</b><br/>REST API Design · JWT Auth<br/>bcrypt · Zod · Multer</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="33.33%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <h3>🗄️ &nbsp; Databases</h3>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&perline=3&theme=dark"/>
+      <br/><br/>
+      <sub><b>PostgreSQL · Prisma ORM</b><br/>MongoDB · Mongoose<br/>pgvector · Supabase</sub>
+      <br/><br/>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33.33%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <h3>⚡ &nbsp; Real-Time</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,express&perline=3&theme=dark"/>
+      <br/><br/>
+      <sub><b>Socket.IO · WebSockets</b><br/>Live Multiplayer Systems<br/>Real-Time Data Sync</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="33.33%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <h3>🤖 &nbsp; AI & RAG</h3>
+      <img src="https://skillicons.dev/icons?i=py,postgres&perline=3&theme=dark"/>
+      <br/><br/>
+      <sub><b>Groq (Llama 3.3) · Hugging Face</b><br/>pgvector Similarity Search<br/>RAG Pipelines · Prompt Engineering</sub>
+      <br/><br/>
+    </td>
+    <td align="center" width="33.33%" valign="top">
+      <br/>
+      <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
+      <h3>🔧 &nbsp; Tools & Deploy</h3>
+      <img src="https://skillicons.dev/icons?i=git,github,vercel,railway&perline=3&theme=dark"/>
+      <br/><br/>
+      <sub><b>Git · GitHub · Vercel</b><br/>Railway · Supabase · Postman<br/>VS Code</sub>
+      <br/><br/>
+    </td>
+  </tr>
+</table>
 </div>
 
 <div align="center">
@@ -58,23 +121,82 @@ const samiullah = {
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🤖 <a href="https://github.com/Samiullah-2004/chatspark-ai">ChatSpark AI — RAG Chatbot SaaS</a></h3>
+      <p>Full-stack SaaS where users upload documents and get a custom AI chatbot trained on that content via RAG. Handles PDF extraction, chunking, embeddings, pgvector similarity search, and LLM-generated answers — with an embeddable widget for any website.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+      </p>
+      <p><a href="https://chatspark-ai-9hwh.vercel.app">▶ View Live</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📄 <a href="https://github.com/Samiullah-2004/ResumeForge">ResumeForge AI — Resume Tailoring</a></h3>
+      <p>AI application that analyzes job descriptions and tailors resumes to match, using live LLM inference via Groq. Full-stack build with PDF parsing, JWT auth, and dual match scoring (AI + deterministic).</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+      </p>
+      <p><a href="https://resumeforge-puce.vercel.app/">▶ View Live</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>🧾 <a href="https://github.com/Samiullah-2004/BillMate">BillMate — Invoicing SaaS</a></h3>
+      <p>Full-stack invoicing platform for freelancers. Client management, auto invoice numbering, payment status tracking, and a live earnings dashboard secured with JWT auth.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+      </p>
+      <p><a href="https://bill-mate-three.vercel.app/">▶ View Live</a></p>
+    </td>
+    <td valign="top">
+      <h3>🛍️ <a href="https://github.com/Samiullah-2004/Stowe">Stowe — E-Commerce Store</a></h3>
+      <p>Full-stack bag store with JWT auth, live shopping cart, checkout, stock management, and an owner admin dashboard for inventory and orders.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+      </p>
+      <p><a href="https://stowe-bags.up.railway.app/">▶ View Live</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">
+      <h3>♟️ <a href="https://github.com/Samiullah-2004/OnyxChess">OnyxChess — Multiplayer Chess</a></h3>
+      <p>Real-time two-player chess synced via WebSockets. Full move validation, legal move highlighting, drag & drop, and checkmate detection with instant notifications.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/chess.js-38BDF8?style=flat-square"/>
+      </p>
+      <p><a href="https://github.com/Samiullah-2004/OnyxChess">▶ View on GitHub</a></p>
+    </td>
+    <td valign="top">
+      <h3>🌐 <a href="https://github.com/Samiullah-2004/portfolio">Portfolio Website</a></h3>
+      <p>Personal portfolio with GSAP scroll-triggered animations, an interactive cursor-reactive grid background, custom preloader, and a slide-in navigation drawer.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
+        <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
+      </p>
+      <p><a href="https://samiullah-portfolio-orpin.vercel.app/">▶ View Live</a></p>
+    </td>
+  </tr>
+</table>
+
 <div align="center">
-
-| &nbsp; | Project | Description | Live |
-|--------|---------|-------------|------|
-| 🤖 | **ResumeForge AI: AI Resume Tailoring Platform** | Full-stack AI application that analyzes job descriptions and tailors resumes to match, using live LLM inference via Groq. Built end to end with Next.js and TypeScript, PostgreSQL (Prisma ORM) and JWT auth — React, Vite, TypeScript, Node.js, Express, PostgreSQL (Supabase), Prisma ORM, Tailwind CSS | [▶ View Live](https://resumeforge-puce.vercel.app/) |
-| 🧾 | **BillMate: Invoicing SaaS** | Full-stack invoicing SaaS for freelancers. JWT auth, client management, auto invoice numbering, payment status tracking, live earnings dashboard — React, Vite, TypeScript, Node.js, Express, PostgreSQL (Supabase), Prisma ORM, Tailwind CSS | [▶ View Live](https://bill-mate-three.vercel.app/) |
-| 🛍️ | **Stowe: E-Commerce Store** | Full-stack bag store with JWT auth, shopping cart, checkout, live stock management, order history & owner admin dashboard — Node.js, Express, MongoDB, Mongoose, EJS, Tailwind CSS | [▶ View Live](https://stowe-bags.up.railway.app/) |
-| ♟️ | **OnyxChess: Multiplayer Chess** | Real-time two-player chess with full move validation, legal move highlighting, drag & drop, check/checkmate detection & spectator mode — Node.js, Socket.IO, chess.js | [▶ View on GitHub](https://github.com/Samiullah-2004/OnyxChess) |
-| 📍 | **LivePin: Location Tracker** | Real-time multi-user location tracking with live map, pulsing markers & coordinates panel — Node.js, Socket.IO, Leaflet.js, EJS | [▶ View on GitHub](https://github.com/Samiullah-2004/LivePin) |
-| 🎬 | **Movie Browser: Movie Discovery App** | Custom React hooks for API data fetching, live search, trending lists & a persisted dark/light theme toggle — React.js, TMDB API, Vercel | [▶ View Live](https://movie-browser-khaki-seven.vercel.app/) |
-| 🌐 | **Portfolio Website** | Personal portfolio with GSAP scroll animations, green curtain transitions & project detail pages — React.js, Tailwind CSS, GSAP | [▶ View Live](https://samiullah-portfolio-orpin.vercel.app/) |
-| 📋 | **Paste App** | Snippet sharing app with create, edit, delete & copy functionality — React, Redux Toolkit, React Router | [▶ View Live](https://paste-app-pied-iota.vercel.app/) |
-| 💹 | **Crypto Price Tracker** | Real-time prices, market cap & 24h changes for top 10 coins via CoinGecko API — React, Tailwind CSS | [▶ View Live](https://samiullah-2004.github.io/Crypto-Price-Tracker/) |
-
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
 
 ---
@@ -82,24 +204,24 @@ const samiullah = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Samiullah-2004&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false" height="165"/>
-  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Samiullah-2004&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api?username=Samiullah-2004&theme=dark&hide_border=true&include_all_commits=false&count_private=false&title_color=38BDF8&icon_color=38BDF8&text_color=A1A1AA&bg_color=0A0A0A" height="165"/>
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Samiullah-2004&theme=dark&hide_border=true&layout=compact&title_color=38BDF8&text_color=A1A1AA&bg_color=0A0A0A" height="165"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Samiullah-2004&theme=tokyonight&hide_border=true" width="60%"/>
+  <img src="https://streak-stats.demolab.com/?user=Samiullah-2004&theme=dark&hide_border=true&background=0A0A0A&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" width="60%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samiullah-2004&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Samiullah-2004&theme=react-dark&hide_border=true&area=true&color=38BDF8&line=38BDF8&point=ffffff&bg_color=0A0A0A" width="100%"/>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,30:6366f1,60:8b5cf6,100:a855f7&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:334155,100:1e293b&height=120&section=footer" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Samiullah-2004&color=a78bfa&style=for-the-badge&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Samiullah-2004&color=38BDF8&style=for-the-badge&label=PROFILE+VIEWS"/>
 </div>
