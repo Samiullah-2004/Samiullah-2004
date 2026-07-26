@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:334155,100:1e293b&height=280&section=header&text=Samiullah%20Akram&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Web%20Developer%20%7C%20AI%20Integrations&descAlignY=58&descSize=20&descColor=94a3b8&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=280&section=header&text=Samiullah%20Akram&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Real-Time%20Systems%20%7C%20AI%20Integrations&descAlignY=58&descSize=18&descColor=94a3b8&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
 <br/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1400&color=38BDF8&center=true&vCenter=true&width=880&lines=Full+Stack+Web+Developer+%E2%80%94+Node.js+%7C+Next.js+%7C+TypeScript;RAG+Pipelines+%7C+Vector+Search+%7C+LLM+Integrations;PostgreSQL+%7C+Prisma+%7C+MongoDB+%7C+Socket.IO;Shipping+production+SaaS%2C+not+just+tutorials;Building+from+Lahore%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Open+to+Remote+%26+Freelance+Work+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=19&pause=1400&color=38BDF8&center=true&vCenter=true&width=880&lines=Full+Stack+Developer+%E2%80%94+Node.js+%7C+Next.js+%7C+TypeScript;Real-Time+Systems+%E2%80%94+WebRTC+%7C+Socket.IO+%7C+Live+Sync;RAG+Pipelines+%7C+Vector+Search+%7C+LLM+Integrations;PostgreSQL+%7C+DynamoDB+%7C+Prisma+%7C+MongoDB;Shipping+production+SaaS%2C+not+just+tutorials;Building+from+Lahore%2C+Pakistan+%F0%9F%87%B5%F0%9F%87%B0;Open+to+Remote+%26+Freelance+Work+%F0%9F%9A%80" alt="Typing SVG"/>
 </p>
 
 ---
@@ -25,19 +25,19 @@ const samiullah = {
   role: "Full Stack Web Developer",
 
   coreStack: {
-    frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Redux", "GSAP"],
-    backend: ["Node.js", "Express.js", "REST APIs", "JWT", "bcrypt", "Zod"],
-    databases: ["PostgreSQL", "Prisma ORM", "MongoDB", "Mongoose"],
-    realtime: ["Socket.IO", "WebSockets"],
-    ai: ["Groq (Llama 3.3)", "Hugging Face Embeddings", "pgvector", "RAG Pipelines"],
-    tools: ["Git", "GitHub", "Vercel", "Railway", "Supabase", "Postman"],
+    frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Redux", "GSAP", "Motion"],
+    backend: ["Node.js", "Express.js", "REST APIs", "JWT", "bcrypt", "Zod", "NextAuth"],
+    databases: ["PostgreSQL", "Prisma ORM", "MongoDB", "Mongoose", "DynamoDB"],
+    realtime: ["Socket.IO", "WebRTC", "WebSockets"],
+    ai: ["Groq (Llama 3.3)", "Google Gemini", "Hugging Face Embeddings", "pgvector", "RAG Pipelines"],
+    tools: ["Git", "GitHub", "Docker", "Vercel", "Railway", "Supabase", "AWS SDK", "Postman"],
   },
 
   experience: "Web Development Intern @ Qwetrum Technologies (June 2026)",
 
-  currentlyBuilding: "ChatSpark AI — RAG-based AI chatbot SaaS with pgvector + Groq",
+  currentlyBuilding: "CodeMeet AI — Real-time technical interview platform with WebRTC, live code sync, and AI feedback",
 
-  currentlyLearning: "Advanced backend architecture, PostgreSQL internals, production-grade auth patterns",
+  currentlyLearning: "AWS infrastructure (EC2, Lambda, S3), production-grade CI/CD pipelines",
 
   freelance: "Actively taking projects on Upwork — remote-first",
 
@@ -62,7 +62,7 @@ const samiullah = {
       <h3>🌐 &nbsp; Frontend</h3>
       <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux&perline=3&theme=dark"/>
       <br/><br/>
-      <sub><b>React.js · Next.js (App Router)</b><br/>TypeScript · Tailwind CSS<br/>Redux · GSAP · HTML5 · CSS3</sub>
+      <sub><b>React.js · Next.js (App Router)</b><br/>TypeScript · Tailwind CSS<br/>Redux · GSAP · Motion</sub>
       <br/><br/>
     </td>
     <td align="center" width="33.33%" valign="top">
@@ -71,16 +71,16 @@ const samiullah = {
       <h3>⚙️ &nbsp; Backend</h3>
       <img src="https://skillicons.dev/icons?i=nodejs,express,ts&perline=3&theme=dark"/>
       <br/><br/>
-      <sub><b>Node.js · Express.js</b><br/>REST API Design · JWT Auth<br/>bcrypt · Zod · Multer</sub>
+      <sub><b>Node.js · Express.js</b><br/>REST API Design · NextAuth<br/>JWT · bcrypt · Zod</sub>
       <br/><br/>
     </td>
     <td align="center" width="33.33%" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
       <h3>🗄️ &nbsp; Databases</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma&perline=3&theme=dark"/>
+      <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,aws&perline=4&theme=dark"/>
       <br/><br/>
-      <sub><b>PostgreSQL · Prisma ORM</b><br/>MongoDB · Mongoose<br/>pgvector · Supabase</sub>
+      <sub><b>PostgreSQL · Prisma ORM</b><br/>MongoDB · DynamoDB<br/>pgvector · Supabase</sub>
       <br/><br/>
     </td>
   </tr>
@@ -88,10 +88,10 @@ const samiullah = {
     <td align="center" width="33.33%" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
-      <h3>⚡ &nbsp; Real-Time</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express&perline=3&theme=dark"/>
+      <h3>⚡ &nbsp; Real-Time & P2P</h3>
+      <img src="https://skillicons.dev/icons?i=nodejs,docker&perline=3&theme=dark"/>
       <br/><br/>
-      <sub><b>Socket.IO · WebSockets</b><br/>Live Multiplayer Systems<br/>Real-Time Data Sync</sub>
+      <sub><b>Socket.IO · WebRTC</b><br/>Live Multiplayer Systems<br/>P2P Video · Signaling Servers</sub>
       <br/><br/>
     </td>
     <td align="center" width="33.33%" valign="top">
@@ -100,16 +100,16 @@ const samiullah = {
       <h3>🤖 &nbsp; AI & RAG</h3>
       <img src="https://skillicons.dev/icons?i=py,postgres&perline=3&theme=dark"/>
       <br/><br/>
-      <sub><b>Groq (Llama 3.3) · Hugging Face</b><br/>pgvector Similarity Search<br/>RAG Pipelines · Prompt Engineering</sub>
+      <sub><b>Groq (Llama 3.3) · Gemini</b><br/>pgvector Similarity Search<br/>RAG Pipelines · Prompt Engineering</sub>
       <br/><br/>
     </td>
     <td align="center" width="33.33%" valign="top">
       <br/>
       <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
       <h3>🔧 &nbsp; Tools & Deploy</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,vercel,railway&perline=3&theme=dark"/>
+      <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,railway&perline=3&theme=dark"/>
       <br/><br/>
-      <sub><b>Git · GitHub · Vercel</b><br/>Railway · Supabase · Postman<br/>VS Code</sub>
+      <sub><b>Git · GitHub · Docker</b><br/>Vercel · Railway · Supabase<br/>AWS SDK · CI/CD (GitHub Actions)</sub>
       <br/><br/>
     </td>
   </tr>
@@ -121,13 +121,29 @@ const samiullah = {
 </div>
 
 ---
+
 ## 🚀 Featured Projects
 
 <table width="100%">
   <tr>
+    <td colspan="2" valign="top">
+      <h3>🎥 <a href="https://github.com/Samiullah-2004/codemeet-ai">CodeMeet AI — Real-Time Technical Interview Platform</a></h3>
+      <p>A full-stack platform for live technical interviews: peer-to-peer video calls, a real-time synced Monaco code editor, chat, and AI-generated code feedback, all in one room. WebRTC negotiates automatically through Socket.IO signaling, DynamoDB persists sessions and users, and Google Gemini reviews the candidate's code the moment the interview ends, returning a summary, strengths, improvements, and a score. Built with CI running lint, test, and build on every single commit from day one.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+      </p>
+      <p><a href="https://github.com/Samiullah-2004/codemeet-ai">▶ View on GitHub</a></p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/Samiullah-2004/chatspark-ai">ChatSpark AI — RAG Chatbot SaaS</a></h3>
-      <p>Full-stack SaaS where users upload documents and get a custom AI chatbot trained on that content via RAG. Handles PDF extraction, chunking, embeddings, pgvector similarity search, and LLM-generated answers — with an embeddable widget for any website.</p>
+      <p>Full-stack SaaS where users upload documents and get a custom AI chatbot trained on that content via RAG. Handles PDF extraction, chunking, embeddings, pgvector similarity search, and LLM-generated answers, with an embeddable widget for any website.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
@@ -219,7 +235,7 @@ const samiullah = {
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1e293b,50:334155,100:1e293b&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:0f172a&height=120&section=footer" width="100%"/>
 </div>
 
 <div align="center">
