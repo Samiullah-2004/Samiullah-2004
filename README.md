@@ -53,72 +53,46 @@ const samiullah = {
 
 ## 🛠 Tech Stack
 
-<div align="center">
-<table width="100%">
-  <tr>
-    <td align="center" width="33.33%" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
-      <h3>🌐 &nbsp; Frontend</h3>
-      <img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,tailwind,redux&perline=3&theme=dark"/>
-      <br/><br/>
-      <sub><b>React.js · Next.js (App Router)</b><br/>TypeScript · Tailwind CSS<br/>Redux · GSAP · Motion</sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="33.33%" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
-      <h3>⚙️ &nbsp; Backend</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,express,ts&perline=3&theme=dark"/>
-      <br/><br/>
-      <sub><b>Node.js · Express.js</b><br/>REST API Design · NextAuth<br/>JWT · bcrypt · Zod</sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="33.33%" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
-      <h3>🗄️ &nbsp; Databases</h3>
-      <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma,aws&perline=4&theme=dark"/>
-      <br/><br/>
-      <sub><b>PostgreSQL · Prisma ORM</b><br/>MongoDB · DynamoDB<br/>pgvector · Supabase</sub>
-      <br/><br/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="33.33%" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
-      <h3>⚡ &nbsp; Real-Time & P2P</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,docker&perline=3&theme=dark"/>
-      <br/><br/>
-      <sub><b>Socket.IO · WebRTC</b><br/>Live Multiplayer Systems<br/>P2P Video · Signaling Servers</sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="33.33%" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
-      <h3>🤖 &nbsp; AI & RAG</h3>
-      <img src="https://skillicons.dev/icons?i=py,postgres&perline=3&theme=dark"/>
-      <br/><br/>
-      <sub><b>Groq (Llama 3.3) · Gemini</b><br/>pgvector Similarity Search<br/>RAG Pipelines · Prompt Engineering</sub>
-      <br/><br/>
-    </td>
-    <td align="center" width="33.33%" valign="top">
-      <br/>
-      <img src="https://img.shields.io/badge/─────────────────────-38BDF8?style=flat-square&labelColor=38BDF8"/>
-      <h3>🔧 &nbsp; Tools & Deploy</h3>
-      <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,railway&perline=3&theme=dark"/>
-      <br/><br/>
-      <sub><b>Git · GitHub · Docker</b><br/>Vercel · Railway · Supabase<br/>AWS SDK · CI/CD (GitHub Actions)</sub>
-      <br/><br/>
-    </td>
-  </tr>
-</table>
-</div>
+**Frontend**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
-</div>
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
+
+**Databases**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Real-Time & AI**
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
+![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
+![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+**Tools & Deploy**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
