@@ -51,69 +51,37 @@ const samiullah = {
 
 ---
 
-## 🛠 Tech Stack
+## ⭐ Flagship Project
 
-**Frontend**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Tailwind](https://img.shields.io/badge/Tailwind-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-
-**Backend**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-![NextAuth](https://img.shields.io/badge/NextAuth.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat-square&logo=zod&logoColor=white)
-
-**Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
-
-**Real-Time & AI**
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white)
-![Groq](https://img.shields.io/badge/Groq-F55036?style=flat-square)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-
-**Tools & Deploy**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+<table width="100%">
+  <tr>
+    <td>
+      <h3>🎥 <a href="https://github.com/Samiullah-2004/codemeet-ai">CodeMeet AI — Real-Time Technical Interview Platform</a></h3>
+      <p>
+        <img src="https://img.shields.io/badge/FLAGSHIP-38BDF8?style=for-the-badge&logoColor=black"/>
+      </p>
+      <p>A full-stack platform for live technical interviews: peer-to-peer video calls, a real-time synced Monaco code editor, chat, and AI-generated code feedback, all in one room. WebRTC negotiates automatically through Socket.IO signaling, DynamoDB persists sessions and users, and Google Gemini reviews the candidate's code the moment the interview ends, returning a summary, strengths, improvements, and a score.</p>
+      <p>Built phase by phase with a branch-per-PR workflow and branch protection on <code>main</code>, with CI running lint, test, and build on every single commit from day one.</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js"/>
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Monaco_Editor-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+      </p>
+      <p><a href="https://github.com/Samiullah-2004/codemeet-ai">▶ View on GitHub</a></p>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## 🚀 Featured Projects
 
 <table width="100%">
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🎥 <a href="https://github.com/Samiullah-2004/codemeet-ai">CodeMeet AI — Real-Time Technical Interview Platform</a></h3>
-      <p>A full-stack platform for live technical interviews: peer-to-peer video calls, a real-time synced Monaco code editor, chat, and AI-generated code feedback, all in one room. WebRTC negotiates automatically through Socket.IO signaling, DynamoDB persists sessions and users, and Google Gemini reviews the candidate's code the moment the interview ends, returning a summary, strengths, improvements, and a score. Built with CI running lint, test, and build on every single commit from day one.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
-        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-      </p>
-      <p><a href="https://github.com/Samiullah-2004/codemeet-ai">▶ View on GitHub</a></p>
-    </td>
-  </tr>
   <tr>
     <td width="50%" valign="top">
       <h3>🤖 <a href="https://github.com/Samiullah-2004/chatspark-ai">ChatSpark AI — RAG Chatbot SaaS</a></h3>
@@ -188,6 +156,64 @@ const samiullah = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
+
+---
+
+## 🛠 Tech Stack
+
+**Frontend**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-38BDF8?style=for-the-badge&logo=next.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/TypeScript-38BDF8?style=for-the-badge&logo=typescript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux-38BDF8?style=for-the-badge&logo=redux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GSAP-38BDF8?style=for-the-badge&logo=greensock&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-38BDF8?style=for-the-badge&logo=vite&logoColor=black"/>
+</p>
+
+**Backend**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Node.js-38BDF8?style=for-the-badge&logo=node.js&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Express-38BDF8?style=for-the-badge&logo=express&logoColor=black"/>
+  <img src="https://img.shields.io/badge/JWT-38BDF8?style=for-the-badge&logo=jsonwebtokens&logoColor=black"/>
+  <img src="https://img.shields.io/badge/NextAuth.js-38BDF8?style=for-the-badge&logo=nextdotjs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Zod-38BDF8?style=for-the-badge&logo=zod&logoColor=black"/>
+</p>
+
+**Databases**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PostgreSQL-38BDF8?style=for-the-badge&logo=postgresql&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Prisma-38BDF8?style=for-the-badge&logo=prisma&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-38BDF8?style=for-the-badge&logo=mongodb&logoColor=black"/>
+  <img src="https://img.shields.io/badge/DynamoDB-38BDF8?style=for-the-badge&logo=amazondynamodb&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Supabase-38BDF8?style=for-the-badge&logo=supabase&logoColor=black"/>
+</p>
+
+**Real-Time & AI**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Socket.IO-38BDF8?style=for-the-badge&logo=socket.io&logoColor=black"/>
+  <img src="https://img.shields.io/badge/WebRTC-38BDF8?style=for-the-badge&logo=webrtc&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Groq-38BDF8?style=for-the-badge&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Gemini-38BDF8?style=for-the-badge&logo=googlegemini&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Hugging_Face-38BDF8?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/pgvector-38BDF8?style=for-the-badge&logo=postgresql&logoColor=black"/>
+</p>
+
+**Tools & Deploy**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Git-38BDF8?style=for-the-badge&logo=git&logoColor=black"/>
+  <img src="https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Docker-38BDF8?style=for-the-badge&logo=docker&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vercel-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Railway-38BDF8?style=for-the-badge&logo=railway&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Postman-38BDF8?style=for-the-badge&logo=postman&logoColor=black"/>
+</p>
 
 ---
 
