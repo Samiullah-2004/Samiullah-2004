@@ -51,6 +51,65 @@ const samiullah = {
 
 ---
 
+## 🛠 Languages and Tools I Use 👨🏻‍💻
+
+<table align="center">
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts&theme=dark"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,vite,html,css&theme=dark"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
+        <td>
+            <img height="40" src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
+            <img height="40" src="https://cdn.simpleicons.org/socketdotio/010101"/>
+            <img height="40" src="https://cdn.simpleicons.org/webrtc/333333"/>
+            <img height="40" src="https://cdn.simpleicons.org/jsonwebtokens/000000"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Databases:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma,dynamodb,supabase,firebase&theme=dark"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI / RAG:</td>
+        <td>
+            <img height="40" src="https://cdn.simpleicons.org/googlegemini"/>
+            <img height="40" src="https://cdn.simpleicons.org/huggingface"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Animation:</td>
+        <td><img height="40" src="https://cdn.simpleicons.org/gsap/88CE02"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=git,github&theme=dark"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">CI/CD:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=githubactions&theme=dark"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Deployment:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,aws,docker&theme=dark"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=postman,graphql,figma&theme=dark"/></td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Testing:</td>
+        <td><img height="40" src="https://skillicons.dev/icons?i=jest&theme=dark"/></td>
+    </tr>
+</table>
+
+---
+
 ## ⭐ Flagship Project
 
 <table width="100%">
@@ -156,64 +215,6 @@ const samiullah = {
 <div align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="80%" />
 </div>
-
----
-
-## 🛠 Tech Stack
-
-**Frontend**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/React-38BDF8?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Next.js-38BDF8?style=for-the-badge&logo=next.js&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-38BDF8?style=for-the-badge&logo=typescript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=for-the-badge&logo=tailwindcss&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Redux-38BDF8?style=for-the-badge&logo=redux&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GSAP-38BDF8?style=for-the-badge&logo=greensock&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vite-38BDF8?style=for-the-badge&logo=vite&logoColor=black"/>
-</p>
-
-**Backend**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Node.js-38BDF8?style=for-the-badge&logo=node.js&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Express-38BDF8?style=for-the-badge&logo=express&logoColor=black"/>
-  <img src="https://img.shields.io/badge/JWT-38BDF8?style=for-the-badge&logo=jsonwebtokens&logoColor=black"/>
-  <img src="https://img.shields.io/badge/NextAuth.js-38BDF8?style=for-the-badge&logo=nextdotjs&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Zod-38BDF8?style=for-the-badge&logo=zod&logoColor=black"/>
-</p>
-
-**Databases**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/PostgreSQL-38BDF8?style=for-the-badge&logo=postgresql&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Prisma-38BDF8?style=for-the-badge&logo=prisma&logoColor=black"/>
-  <img src="https://img.shields.io/badge/MongoDB-38BDF8?style=for-the-badge&logo=mongodb&logoColor=black"/>
-  <img src="https://img.shields.io/badge/DynamoDB-38BDF8?style=for-the-badge&logo=amazondynamodb&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Supabase-38BDF8?style=for-the-badge&logo=supabase&logoColor=black"/>
-</p>
-
-**Real-Time & AI**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Socket.IO-38BDF8?style=for-the-badge&logo=socket.io&logoColor=black"/>
-  <img src="https://img.shields.io/badge/WebRTC-38BDF8?style=for-the-badge&logo=webrtc&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Groq-38BDF8?style=for-the-badge&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Gemini-38BDF8?style=for-the-badge&logo=googlegemini&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-38BDF8?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/pgvector-38BDF8?style=for-the-badge&logo=postgresql&logoColor=black"/>
-</p>
-
-**Tools & Deploy**
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-38BDF8?style=for-the-badge&logo=git&logoColor=black"/>
-  <img src="https://img.shields.io/badge/GitHub-38BDF8?style=for-the-badge&logo=github&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Docker-38BDF8?style=for-the-badge&logo=docker&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Vercel-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Railway-38BDF8?style=for-the-badge&logo=railway&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Postman-38BDF8?style=for-the-badge&logo=postman&logoColor=black"/>
-</p>
 
 ---
 
