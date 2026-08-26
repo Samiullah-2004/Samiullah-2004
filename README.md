@@ -3,10 +3,10 @@
 </div>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/samiullah-akram-a28461404/"><img src="https://img.shields.io/badge/LinkedIn-Profile-38BDF8?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
-  <a href="https://www.upwork.com/freelancers/~01ffa5cf678d8eff63"><img src="https://img.shields.io/badge/Upwork-Profile-38BDF8?style=for-the-badge&logo=upwork&logoColor=black"/></a>
-  <a href="https://samiullah-portfolio-orpin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Website-38BDF8?style=for-the-badge&logo=vercel&logoColor=black"/></a>
-  <a href="mailto:samiullah.akram.3009@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact-38BDF8?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/samiullah-akram-a28461404/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.upwork.com/freelancers/~01ffa5cf678d8eff63"><img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/></a>
+  <a href="https://samiullah-portfolio-orpin.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:samiullah.akram.3009@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
 
 <br/>
@@ -25,25 +25,21 @@ const samiullah = {
   role: "Full Stack Web Developer",
 
   coreStack: {
-    frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Redux", "GSAP", "Motion"],
+    frontend: ["React.js", "Next.js", "TypeScript", "Tailwind CSS", "Redux", "GSAP"],
     backend: ["Node.js", "Express.js", "REST APIs", "JWT", "bcrypt", "Zod", "NextAuth"],
-    databases: ["PostgreSQL", "Prisma ORM", "MongoDB", "Mongoose", "DynamoDB"],
+    databases: ["PostgreSQL", "MySQL", "SQLite", "Prisma ORM", "MongoDB", "Mongoose", "DynamoDB"],
     realtime: ["Socket.IO", "WebRTC", "WebSockets"],
-    ai: ["Groq (Llama 3.3)", "Google Gemini", "Hugging Face Embeddings", "pgvector", "RAG Pipelines"],
+    ai: ["Groq (Llama 3.3)", "Google Gemini", "Hugging Face Embeddings", "Claude", "pgvector", "RAG Pipelines"],
     tools: ["Git", "GitHub", "Docker", "Vercel", "Railway", "Supabase", "AWS SDK", "Postman"],
   },
 
-  experience: "Web Development Intern @ Qwetrum Technologies (June 2026)",
+  experience: "Web Development Intern @ Qwetrum Technologies (June 2026) & Decode Labs (July 2026)",
 
-  currentlyBuilding: "CodeMeet AI — Real-time technical interview platform with WebRTC, live code sync, and AI feedback",
+  focus: "Actively job hunting for remote full-stack roles, while pursuing merged open-source PRs (klorn) as a portfolio differentiator",
 
-  currentlyLearning: "AWS infrastructure (EC2, Lambda, S3), production-grade CI/CD pipelines",
+  currentlyLearning: "Agentic AI systems (LangChain/LangGraph, MCP), Python for AI/ML tooling, and advanced RAG architectures",
 
   freelance: "Actively taking projects on Upwork — remote-first",
-
-  motivation: "Youngest in my family, lost my father in 2022 — building a real career is personal, not just professional",
-
-  funFact: "I follow crypto and financial markets daily 📈",
 
   goal: "Land a remote full-stack role or grow a freelance client base building real, production-ready products",
 };
@@ -56,55 +52,111 @@ const samiullah = {
 <table align="center">
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Languages:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=js,ts&theme=dark"/></td>
+        <td>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/javascript-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/typescript-original.svg"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Frontend:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,vite,html,css&theme=dark"/></td>
+        <td>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/nextjs-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/react-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/redux-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/tailwindcss-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/vite.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/html5-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/css3-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/reacthookform.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/reactrouter-original.svg"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Backend:</td>
         <td>
-            <img height="40" src="https://skillicons.dev/icons?i=nodejs,express&theme=dark"/>
-            <img height="40" src="https://cdn.simpleicons.org/socketdotio/010101"/>
-            <img height="40" src="https://cdn.simpleicons.org/webrtc/333333"/>
-            <img height="40" src="https://cdn.simpleicons.org/jsonwebtokens/000000"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/nodejs-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/express-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/socketio-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/logos--webrtc.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/jwt-icon.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/logos--zod.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/ejs.svg"/>
         </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Databases:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,sqlite,prisma,dynamodb,supabase,firebase&theme=dark"/></td>
+        <td>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/postgresql-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/mongodb-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/mongoose-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/mysql-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/sqlite-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/sqldeveloper-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/prisma-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/dynamodb-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/supabase-original.svg"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">AI / RAG:</td>
         <td>
-            <img height="40" src="https://cdn.simpleicons.org/googlegemini"/>
-            <img height="40" src="https://cdn.simpleicons.org/huggingface"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/google-gemini.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/logos--hugging-face-icon.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/thesvg-color--groq.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/logos--claude-icon.svg"/>
         </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Animation:</td>
-        <td><img height="40" src="https://cdn.simpleicons.org/gsap/88CE02"/></td>
+        <td>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/thesvg-color--gsap.svg"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Version Control:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=git,github&theme=dark"/></td>
+        <td>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/git-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/github-original.svg"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">CI/CD:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=githubactions&theme=dark"/></td>
+        <td>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/githubactions-original.svg"/>
+        </td>
+    </tr>
+    <tr>
+        <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Cloud & Containers:</td>
+        <td>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/docker-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/kubernetes-original.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/devicon--amazonwebservices.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/logos--aws-ec2.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/aws-ecs.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/logos--openshift.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/serverless.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/nginx-original.svg"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Deployment:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=vercel,aws,docker&theme=dark"/></td>
+        <td>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/vercel.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/railway.svg"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Tools:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=postman,graphql,figma&theme=dark"/></td>
+        <td>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/postman.svg"/>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/vscode-original.svg"/>
+        </td>
     </tr>
     <tr>
         <td style="font-weight: bold; padding-right: 10px; vertical-align: center; border: none;">Testing:</td>
-        <td><img height="40" src="https://skillicons.dev/icons?i=jest&theme=dark"/></td>
+        <td>
+            <img height="46" style="margin-right:6px" src="./Icons/Animated/jest.svg"/>
+        </td>
     </tr>
 </table>
 
@@ -115,23 +167,22 @@ const samiullah = {
 <table width="100%">
   <tr>
     <td>
-      <h3>🎥 <a href="https://github.com/Samiullah-2004/codemeet-ai">CodeMeet AI — Real-Time Technical Interview Platform</a></h3>
+      <h3>🤖 <a href="https://github.com/Samiullah-2004/chatspark-ai">ChatSpark AI — Full RAG Pipeline SaaS with Multi-Tenant Isolation</a></h3>
       <p>
         <img src="https://img.shields.io/badge/FLAGSHIP-38BDF8?style=for-the-badge&logoColor=black"/>
       </p>
-      <p>A full-stack platform for live technical interviews: peer-to-peer video calls, a real-time synced Monaco code editor, chat, and AI-generated code feedback, all in one room. WebRTC negotiates automatically through Socket.IO signaling, DynamoDB persists sessions and users, and Google Gemini reviews the candidate's code the moment the interview ends, returning a summary, strengths, improvements, and a score.</p>
-      <p>Built phase by phase with a branch-per-PR workflow and branch protection on <code>main</code>, with CI running lint, test, and build on every single commit from day one.</p>
+      <p>A full-stack SaaS where any business uploads documents and gets a custom AI chatbot trained on that content, a complete RAG pipeline end to end: PDF extraction and chunking, Hugging Face MiniLM-L6-v2 embeddings, pgvector similarity search, and LLM-generated answers via Groq (Llama 3.3) with a Gemini fallback. Built with multi-tenant isolation so each business's data stays fully separated, and ships with an embeddable widget any website can drop in.</p>
+      <p>Built on Next.js 16 with NextAuth.js v5 for auth and Uploadthing for document handling. Hardened in production, including a SQL-injection fix (replacing <code>$queryRawUnsafe</code> with a tagged <code>$queryRaw</code>) and a Zod schema fix for a blank first-message bug on the embed widget.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-        <img src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Monaco_Editor-0078D4?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-        <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
-        <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/PostgreSQL_%2B_pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/NextAuth-000000?style=flat-square&logoColor=white"/>
       </p>
-      <p><a href="https://github.com/Samiullah-2004/codemeet-ai">▶ View on GitHub</a></p>
+      <p><a href="https://github.com/Samiullah-2004/chatspark-ai">▶ View on GitHub</a> · <a href="https://chatspark-ai-9hwh.vercel.app">▶ View Live</a></p>
     </td>
   </tr>
 </table>
@@ -143,24 +194,27 @@ const samiullah = {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Samiullah-2004/chatspark-ai">ChatSpark AI — RAG Chatbot SaaS</a></h3>
-      <p>Full-stack SaaS where users upload documents and get a custom AI chatbot trained on that content via RAG. Handles PDF extraction, chunking, embeddings, pgvector similarity search, and LLM-generated answers, with an embeddable widget for any website.</p>
+      <h3>🎥 <a href="https://github.com/Samiullah-2004/codemeet-ai">CodeMeet AI — Real-Time Technical Interview Platform</a></h3>
+      <p>A full-stack platform for live technical interviews: peer-to-peer video calls, a real-time synced Monaco code editor, chat, and AI-generated code feedback, all in one room. WebRTC negotiates automatically through Socket.IO signaling, DynamoDB persists sessions and users, and Google Gemini reviews the candidate's code the moment the interview ends.</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+        <img height="22" src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/WebRTC-333333?style=flat-square&logo=webrtc&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white"/>
       </p>
-      <p><a href="https://chatspark-ai-9hwh.vercel.app">▶ View Live</a></p>
+      <p><a href="https://github.com/Samiullah-2004/codemeet-ai">▶ View on GitHub</a></p>
     </td>
     <td width="50%" valign="top">
       <h3>📄 <a href="https://github.com/Samiullah-2004/ResumeForge">ResumeForge AI — Resume Tailoring</a></h3>
       <p>AI application that analyzes job descriptions and tailors resumes to match, using live LLM inference via Groq. Full-stack build with PDF parsing, JWT auth, and dual match scoring (AI + deterministic).</p>
       <p>
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Groq-F55036?style=flat-square"/>
+        <img height="22" src="https://img.shields.io/badge/Next.js_16-000000?style=flat-square&logo=next.js&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/Groq-F55036?style=flat-square&logoColor=white"/>
       </p>
       <p><a href="https://resumeforge-puce.vercel.app/">▶ View Live</a></p>
     </td>
@@ -170,10 +224,10 @@ const samiullah = {
       <h3>🧾 <a href="https://github.com/Samiullah-2004/BillMate">BillMate — Invoicing SaaS</a></h3>
       <p>Full-stack invoicing platform for freelancers. Client management, auto invoice numbering, payment status tracking, and a live earnings dashboard secured with JWT auth.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img height="22" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
       </p>
       <p><a href="https://bill-mate-three.vercel.app/">▶ View Live</a></p>
     </td>
@@ -181,9 +235,9 @@ const samiullah = {
       <h3>🛍️ <a href="https://github.com/Samiullah-2004/Stowe">Stowe — E-Commerce Store</a></h3>
       <p>Full-stack bag store with JWT auth, live shopping cart, checkout, stock management, and an owner admin dashboard for inventory and orders.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
       </p>
       <p><a href="https://stowe-bags.up.railway.app/">▶ View Live</a></p>
     </td>
@@ -193,9 +247,9 @@ const samiullah = {
       <h3>♟️ <a href="https://github.com/Samiullah-2004/OnyxChess">OnyxChess — Multiplayer Chess</a></h3>
       <p>Real-time two-player chess synced via WebSockets. Full move validation, legal move highlighting, drag & drop, and checkmate detection with instant notifications.</p>
       <p>
-        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-        <img src="https://img.shields.io/badge/chess.js-38BDF8?style=flat-square"/>
+        <img height="22" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/chess.js-769656?style=flat-square&logoColor=white"/>
       </p>
       <p><a href="https://github.com/Samiullah-2004/OnyxChess">▶ View on GitHub</a></p>
     </td>
@@ -203,9 +257,9 @@ const samiullah = {
       <h3>🌐 <a href="https://github.com/Samiullah-2004/portfolio">Portfolio Website</a></h3>
       <p>Personal portfolio with GSAP scroll-triggered animations, an interactive cursor-reactive grid background, custom preloader, and a slide-in navigation drawer.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-        <img src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
-        <img src="https://img.shields.io/badge/Tailwind_CSS-38BDF8?style=flat-square&logo=tailwindcss&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img height="22" src="https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black"/>
+        <img height="22" src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
       </p>
       <p><a href="https://samiullah-portfolio-orpin.vercel.app/">▶ View Live</a></p>
     </td>
