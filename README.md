@@ -194,6 +194,20 @@ const samiullah = {
 <table width="100%">
   <tr>
     <td width="50%" valign="top">
+      <h3>🍽️ <a href="https://github.com/Samiullah-2004/Comptoir">Comptoir — Restaurant Ordering Platform</a></h3>
+      <p>A full-stack online ordering platform: browse the menu without logging in, add to cart, checkout via Stripe, and track order status live through Socket.IO. Ships with an admin dashboard (menu CRUD, best-sellers analytics, live order management), an embedded AI chatbot built on his own ChatSpark AI, Vitest/Supertest/Playwright test coverage, and a Dockerized setup running through a full GitHub Actions CI/CD pipeline.</p>
+      <p>
+        <img height="22" src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+        <img height="22" src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+        <img height="22" src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+      </p>
+      <p><a href="https://github.com/Samiullah-2004/Comptoir">▶ View on GitHub</a> · <a href="https://comptoir-food.vercel.app/">▶ View Live</a></p>
+    </td>
+    <td width="50%" valign="top">
       <h3>🎥 <a href="https://github.com/Samiullah-2004/codemeet-ai">CodeMeet AI — Real-Time Technical Interview Platform</a></h3>
       <p>A full-stack platform for live technical interviews: peer-to-peer video calls, a real-time synced Monaco code editor, chat, and AI-generated code feedback, all in one room. WebRTC negotiates automatically through Socket.IO signaling, DynamoDB persists sessions and users, and Google Gemini reviews the candidate's code the moment the interview ends.</p>
       <p>
@@ -207,6 +221,8 @@ const samiullah = {
       </p>
       <p><a href="https://github.com/Samiullah-2004/codemeet-ai">▶ View on GitHub</a></p>
     </td>
+  </tr>
+  <tr>
     <td width="50%" valign="top">
       <h3>📄 <a href="https://github.com/Samiullah-2004/ResumeForge">ResumeForge AI — Resume Tailoring</a></h3>
       <p>AI application that analyzes job descriptions and tailors resumes to match, using live LLM inference via Groq. Full-stack build with PDF parsing, JWT auth, and dual match scoring (AI + deterministic).</p>
@@ -218,9 +234,7 @@ const samiullah = {
       </p>
       <p><a href="https://resumeforge-puce.vercel.app/">▶ View Live</a></p>
     </td>
-  </tr>
-  <tr>
-    <td valign="top">
+    <td width="50%" valign="top">
       <h3>🧾 <a href="https://github.com/Samiullah-2004/BillMate">BillMate — Invoicing SaaS</a></h3>
       <p>Full-stack invoicing platform for freelancers. Client management, auto invoice numbering, payment status tracking, and a live earnings dashboard secured with JWT auth.</p>
       <p>
@@ -231,6 +245,8 @@ const samiullah = {
       </p>
       <p><a href="https://bill-mate-three.vercel.app/">▶ View Live</a></p>
     </td>
+  </tr>
+  <tr>
     <td valign="top">
       <h3>🛍️ <a href="https://github.com/Samiullah-2004/Stowe">Stowe — E-Commerce Store</a></h3>
       <p>Full-stack bag store with JWT auth, live shopping cart, checkout, stock management, and an owner admin dashboard for inventory and orders.</p>
@@ -241,19 +257,7 @@ const samiullah = {
       </p>
       <p><a href="https://stowe-bags.up.railway.app/">▶ View Live</a></p>
     </td>
-  </tr>
-  <tr>
-    <td valign="top">
-      <h3>♟️ <a href="https://github.com/Samiullah-2004/OnyxChess">OnyxChess — Multiplayer Chess</a></h3>
-      <p>Real-time two-player chess synced via WebSockets. Full move validation, legal move highlighting, drag & drop, and checkmate detection with instant notifications.</p>
-      <p>
-        <img height="22" src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-        <img height="22" src="https://img.shields.io/badge/Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white"/>
-        <img height="22" src="https://img.shields.io/badge/chess.js-769656?style=flat-square&logoColor=white"/>
-      </p>
-      <p><a href="https://github.com/Samiullah-2004/OnyxChess">▶ View on GitHub</a></p>
-    </td>
-    <td valign="top">
+   <td valign="top">
       <h3>🌐 <a href="https://github.com/Samiullah-2004/portfolio">Portfolio Website</a></h3>
       <p>Personal portfolio with GSAP scroll-triggered animations, an interactive cursor-reactive grid background, custom preloader, and a slide-in navigation drawer.</p>
       <p>
@@ -264,6 +268,7 @@ const samiullah = {
       <p><a href="https://samiullah-portfolio-orpin.vercel.app/">▶ View Live</a></p>
     </td>
   </tr>
+
 </table>
 
 <div align="center">
