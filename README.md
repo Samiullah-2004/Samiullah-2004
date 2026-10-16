@@ -21,7 +21,6 @@
 <p align="center">
   <a href="#about"><b>About</b></a> &nbsp;·&nbsp;
   <a href="#stack"><b>Stack</b></a> &nbsp;·&nbsp;
-  <a href="#experience"><b>Experience</b></a> &nbsp;·&nbsp;
   <a href="#projects"><b>Projects</b></a> &nbsp;·&nbsp;
   <a href="#education"><b>Education</b></a> &nbsp;·&nbsp;
   <a href="#activity"><b>Activity</b></a> &nbsp;·&nbsp;
