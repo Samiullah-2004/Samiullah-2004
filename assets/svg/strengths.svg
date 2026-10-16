@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="444" viewBox="0 0 1000 444" role="img" aria-labelledby="title desc">
+<title id="title">What I do best</title>
+<desc id="desc">AI &amp; RAG products: RAG pipelines built from scratch (chunking, embeddings, pgvector search) and LLM features with Gemini, Groq and MiniMax. Real-time systems: WebRTC video, Socket.IO and live AI video streaming with per-second credit billing and clean session recovery. Payments &amp; SaaS billing: Stripe, Flutterwave and Squad with signed webhooks, idempotent fulfillment, credits, plans and multi-currency pricing. Design to deployment: Design systems and responsive UI, then tests (Jest, Vitest, Playwright), CI/CD, Docker and deploys to Vercel, Railway and Hostinger.</desc>
+<defs><style>
+.sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}
+.display{font-family:'Anton', Impact, 'Arial Narrow Bold', sans-serif}
+@keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes rise{from{transform:translateY(112%)}to{transform:none}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes ping{0%{transform:scale(1);opacity:.6}70%,100%{transform:scale(3.4);opacity:0}}
+@keyframes breathe{0%,100%{opacity:.55}50%{opacity:1}}
+.fu{animation:fadeUp .9s cubic-bezier(0.16, 1, 0.3, 1) both}
+.fi{animation:fadeIn 1.2s cubic-bezier(0.16, 1, 0.3, 1) both}
+.rv{transform-box:fill-box;animation:rise 1s cubic-bezier(0.16, 1, 0.3, 1) both}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 2s cubic-bezier(0,0,.2,1) infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.stt{font-size:17.5px;font-weight:600;fill:#ededed}
+.sd{font-size:14.5px;fill:#9a9a9a}
+.sc{fill:#ffffff;fill-opacity:.03;stroke:#ffffff;stroke-opacity:.08;animation:actCard 8s ease-in-out infinite both}
+.st{fill:#ffffff;fill-opacity:.06;animation:actTile 8s ease-in-out infinite both}
+.si{stroke:#ededed;animation:actIcon 8s ease-in-out infinite both}
+@keyframes actCard{0%,32%,100%{stroke:#ffffff;stroke-opacity:.08}6%,26%{stroke:#2ef06a;stroke-opacity:.45}}
+@keyframes actTile{0%,32%,100%{fill:#ffffff;fill-opacity:.06}6%,26%{fill:#2ef06a;fill-opacity:1}}
+@keyframes actIcon{0%,32%,100%{stroke:#ededed}6%,26%{stroke:#0a0a0b}}
+</style><clipPath id="card"><rect width="1000" height="444" rx="26"/></clipPath>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+<radialGradient id="vignette" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#0a0a0b" stop-opacity="0"/><stop offset=".65" stop-color="#0a0a0b" stop-opacity=".45"/><stop offset="1" stop-color="#0a0a0b" stop-opacity=".9"/></radialGradient></defs>
+<g clip-path="url(#card)"><rect width="1000" height="444" fill="#0a0a0b"/><rect width="1000" height="444" fill="url(#grid)"/><rect width="1000" height="444" fill="url(#vignette)"/><g class="fu" style="animation-delay:0.1s">
+<rect class="sc" x="20" y="20" width="472" height="194" rx="22" style="animation-delay:1s"/>
+<rect class="st" x="44" y="44" width="44" height="44" rx="14" style="animation-delay:1s"/>
+<g class="si" style="animation-delay:1s"><svg x="56" y="56" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 18V5"/><path d="M15 13a4.17 4.17 0 0 1-3-4 4.17 4.17 0 0 1-3 4"/><path d="M17.598 6.5A3 3 0 1 0 12 5a3 3 0 1 0-5.598 1.5"/><path d="M17.997 5.125a4 4 0 0 1 2.526 5.77"/><path d="M18 18a4 4 0 0 0 2-7.464"/><path d="M19.967 17.483A4 4 0 1 1 12 18a4 4 0 1 1-7.967-.517"/><path d="M6 18a4 4 0 0 1-2-7.464"/><path d="M6.003 5.125a4 4 0 0 0-2.526 5.77"/></svg></g>
+<text class="sans stt" x="44" y="120">AI &amp; RAG products</text>
+<text class="sans sd" x="44" y="146">RAG pipelines built from scratch (chunking, embeddings,</text><text class="sans sd" x="44" y="168">pgvector search) and LLM features with Gemini, Groq and</text><text class="sans sd" x="44" y="190">MiniMax.</text>
+</g>
+<g class="fu" style="animation-delay:0.2s">
+<rect class="sc" x="508" y="20" width="472" height="194" rx="22" style="animation-delay:3s"/>
+<rect class="st" x="532" y="44" width="44" height="44" rx="14" style="animation-delay:3s"/>
+<g class="si" style="animation-delay:3s"><svg x="544" y="56" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M16.247 7.761a6 6 0 0 1 0 8.478"/><path d="M19.075 4.933a10 10 0 0 1 0 14.134"/><path d="M4.925 19.067a10 10 0 0 1 0-14.134"/><path d="M7.753 16.239a6 6 0 0 1 0-8.478"/><circle cx="12" cy="12" r="2"/></svg></g>
+<text class="sans stt" x="532" y="120">Real-time systems</text>
+<text class="sans sd" x="532" y="146">WebRTC video, Socket.IO and live AI video streaming with</text><text class="sans sd" x="532" y="168">per-second credit billing and clean session recovery.</text>
+</g>
+<g class="fu" style="animation-delay:0.3s">
+<rect class="sc" x="20" y="230" width="472" height="194" rx="22" style="animation-delay:5s"/>
+<rect class="st" x="44" y="254" width="44" height="44" rx="14" style="animation-delay:5s"/>
+<g class="si" style="animation-delay:5s"><svg x="56" y="266" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect width="20" height="14" x="2" y="5" rx="2"/><line x1="2" x2="22" y1="10" y2="10"/></svg></g>
+<text class="sans stt" x="44" y="330">Payments &amp; SaaS billing</text>
+<text class="sans sd" x="44" y="356">Stripe, Flutterwave and Squad with signed webhooks,</text><text class="sans sd" x="44" y="378">idempotent fulfillment, credits, plans and multi-currency pricing.</text>
+</g>
+<g class="fu" style="animation-delay:0.4s">
+<rect class="sc" x="508" y="230" width="472" height="194" rx="22" style="animation-delay:7s"/>
+<rect class="st" x="532" y="254" width="44" height="44" rx="14" style="animation-delay:7s"/>
+<g class="si" style="animation-delay:7s"><svg x="544" y="266" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 15v5s3.03-.55 4-2c1.08-1.62 0-5 0-5"/><path d="M4.5 16.5c-1.5 1.26-2 5-2 5s3.74-.5 5-2c.71-.84.7-2.13-.09-2.91a2.18 2.18 0 0 0-2.91-.09"/><path d="M9 12a22 22 0 0 1 2-3.95A12.88 12.88 0 0 1 22 2c0 2.72-.78 7.5-6 11a22.4 22.4 0 0 1-4 2z"/><path d="M9 12H4s.55-3.03 2-4c1.62-1.08 5 .05 5 .05"/></svg></g>
+<text class="sans stt" x="532" y="330">Design to deployment</text>
+<text class="sans sd" x="532" y="356">Design systems and responsive UI, then tests (Jest, Vitest,</text><text class="sans sd" x="532" y="378">Playwright), CI/CD, Docker and deploys to Vercel, Railway and</text><text class="sans sd" x="532" y="400">Hostinger.</text>
+</g></g><rect x=".5" y=".5" width="999" height="443" rx="26" fill="none" stroke="#ffffff" stroke-opacity=".09"/>
+</svg>

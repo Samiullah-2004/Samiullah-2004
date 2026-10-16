@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" height="214" viewBox="0 0 1000 214" role="img" aria-labelledby="title desc">
+<title id="title">Browser &amp; Media skills</title>
+<desc id="desc">Web Audio API, WebAssembly, Web Workers, MediaRecorder, Canvas API</desc>
+<defs><style>@font-face{font-family:'Anton';src:url(data:font/woff2;base64,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) format('woff2')}
+.sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}
+.display{font-family:'Anton', Impact, 'Arial Narrow Bold', sans-serif}
+@keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes rise{from{transform:translateY(112%)}to{transform:none}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes ping{0%{transform:scale(1);opacity:.6}70%,100%{transform:scale(3.4);opacity:0}}
+@keyframes breathe{0%,100%{opacity:.55}50%{opacity:1}}
+.fu{animation:fadeUp .9s cubic-bezier(0.16, 1, 0.3, 1) both}
+.fi{animation:fadeIn 1.2s cubic-bezier(0.16, 1, 0.3, 1) both}
+.rv{transform-box:fill-box;animation:rise 1s cubic-bezier(0.16, 1, 0.3, 1) both}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 2s cubic-bezier(0,0,.2,1) infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.idx{font:600 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;letter-spacing:.22em;fill:#2ef06a;text-transform:uppercase}
+.count{font:600 11px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;letter-spacing:.22em;fill:#9a9a9a;text-transform:uppercase}
+.lb{font-size:13px;font-weight:500;fill:#cfcfcf;text-anchor:middle}
+.tile{animation:fadeUp .8s cubic-bezier(0.16, 1, 0.3, 1) both}
+.tb{fill:#ffffff;fill-opacity:.025;stroke:#ffffff;stroke-opacity:.08;animation:glow 8s linear infinite both}
+.flip{animation:flip 8s linear infinite both}
+.beam{animation:beam 8s linear 1.3s infinite both}
+@keyframes flip{0%{transform:scaleX(1)}0.38%{transform:scaleX(1)}0.75%{transform:scaleX(1)}1.13%{transform:scaleX(1)}1.5%{transform:scaleX(0.99)}1.88%{transform:scaleX(0.97)}2.25%{transform:scaleX(0.92)}2.63%{transform:scaleX(0.81)}3%{transform:scaleX(0.6)}3.38%{transform:scaleX(0.24)}3.75%{transform:scaleX(-0.24)}4.13%{transform:scaleX(-0.75)}4.5%{transform:scaleX(-1)}4.88%{transform:scaleX(-0.75)}5.25%{transform:scaleX(-0.24)}5.63%{transform:scaleX(0.24)}6%{transform:scaleX(0.6)}6.38%{transform:scaleX(0.81)}6.75%{transform:scaleX(0.92)}7.13%{transform:scaleX(0.97)}7.5%{transform:scaleX(0.99)}7.88%{transform:scaleX(1)}8.25%{transform:scaleX(1)}8.63%{transform:scaleX(1)}9%{transform:scaleX(1)}100%{transform:scaleX(1)}}
+@keyframes glow{0%,18%,100%{stroke:#ffffff;stroke-opacity:.08;fill:#ffffff;fill-opacity:.025}3%{stroke:#2ef06a;stroke-opacity:.9;fill:#2ef06a;fill-opacity:.07}}
+@keyframes beam{0%{transform:translateX(0)}30%,100%{transform:translateX(1170px)}}
+</style><clipPath id="card"><rect width="1000" height="214" rx="22"/></clipPath>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#ffffff" stroke-opacity=".035"/></pattern>
+<radialGradient id="vignette" cx="50%" cy="45%" r="75%"><stop offset="0" stop-color="#0a0a0b" stop-opacity="0"/><stop offset=".65" stop-color="#0a0a0b" stop-opacity=".45"/><stop offset="1" stop-color="#0a0a0b" stop-opacity=".9"/></radialGradient><filter id="mono" x="-10%" y="-10%" width="120%" height="120%" color-interpolation-filters="sRGB"><feColorMatrix type="matrix" values="0 0 0 0 0.93 0 0 0 0 0.93 0 0 0 0 0.93 0 0 0 1 0"/></filter>
+<linearGradient id="beamGrad" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#2ef06a" stop-opacity="0"/><stop offset=".5" stop-color="#2ef06a" stop-opacity=".11"/><stop offset="1" stop-color="#2ef06a" stop-opacity="0"/></linearGradient></defs>
+<g clip-path="url(#card)"><rect width="1000" height="214" fill="#0a0a0b"/><rect width="1000" height="214" fill="url(#grid)"/><rect width="1000" height="214" fill="url(#vignette)"/>
+<g class="fu" style="animation-delay:.05s">
+<text class="idx" x="26" y="45">07</text>
+<line x1="55" y1="41" x2="79" y2="41" stroke="#ffffff" stroke-opacity=".2"/>
+<text class="display" x="91" y="50" font-size="28" fill="#ededed">BROWSER &amp; MEDIA</text>
+<text class="count" x="974" y="45" text-anchor="end">5 skills</text>
+</g>
+<g class="tile" style="animation-delay:0.12s">
+<rect class="tb" x="101" y="76" width="150" height="112" rx="16" style="animation-delay:1.84s"/>
+<g class="flip" style="transform-origin:176px 114px;animation-delay:1.84s"><svg x="156" y="94" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#2ef06a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M2 13a2 2 0 0 0 2-2V7a2 2 0 0 1 4 0v13a2 2 0 0 0 4 0V4a2 2 0 0 1 4 0v13a2 2 0 0 0 4 0v-4a2 2 0 0 1 2-2"/></svg></g>
+<text class="sans lb" x="176" y="165">Web Audio API</text>
+</g>
+<g class="tile" style="animation-delay:0.16s">
+<rect class="tb" x="263" y="76" width="150" height="112" rx="16" style="animation-delay:2.17s"/>
+<g class="flip" style="transform-origin:338px 114px;animation-delay:2.17s"><svg x="318" y="94" width="40" height="40" viewBox="0 0 24 24" fill="#654FF0" overflow="visible"><path d="M14.745,0c0,0.042,0,0.085,0,0.129c0,1.52-1.232,2.752-2.752,2.752c-1.52,0-2.752-1.232-2.752-2.752 c0-0.045,0-0.087,0-0.129H0v24h24V0H14.745z M11.454,21.431l-1.169-5.783h-0.02l-1.264,5.783H7.39l-1.824-8.497h1.59l1.088,5.783 h0.02l1.311-5.783h1.487l1.177,5.854h0.02l1.242-5.854h1.561l-2.027,8.497H11.454z M20.209,21.431l-0.542-1.891h-2.861l-0.417,1.891 h-1.59l2.056-8.497h2.509l2.5,8.497H20.209z M17.812,15.028l-0.694,3.118h2.159l-0.796-3.118H17.812z"/></svg></g>
+<text class="sans lb" x="338" y="165">WebAssembly</text>
+</g>
+<g class="tile" style="animation-delay:0.21s">
+<rect class="tb" x="425" y="76" width="150" height="112" rx="16" style="animation-delay:2.5s"/>
+<g class="flip" style="transform-origin:500px 114px;animation-delay:2.5s"><svg x="480" y="94" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#2ef06a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20v2"/><path d="M12 2v2"/><path d="M17 20v2"/><path d="M17 2v2"/><path d="M2 12h2"/><path d="M2 17h2"/><path d="M2 7h2"/><path d="M20 12h2"/><path d="M20 17h2"/><path d="M20 7h2"/><path d="M7 20v2"/><path d="M7 2v2"/><rect x="4" y="4" width="16" height="16" rx="2"/><rect x="8" y="8" width="8" height="8" rx="1"/></svg></g>
+<text class="sans lb" x="500" y="165">Web Workers</text>
+</g>
+<g class="tile" style="animation-delay:0.26s">
+<rect class="tb" x="587" y="76" width="150" height="112" rx="16" style="animation-delay:2.83s"/>
+<g class="flip" style="transform-origin:662px 114px;animation-delay:2.83s"><svg x="642" y="94" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#2ef06a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><rect width="18" height="18" x="3" y="3" rx="2"/><path d="M7 3v18"/><path d="M3 7.5h4"/><path d="M3 12h18"/><path d="M3 16.5h4"/><path d="M17 3v18"/><path d="M17 7.5h4"/><path d="M17 16.5h4"/></svg></g>
+<text class="sans lb" x="662" y="165">MediaRecorder</text>
+</g>
+<g class="tile" style="animation-delay:0.3s">
+<rect class="tb" x="749" y="76" width="150" height="112" rx="16" style="animation-delay:3.16s"/>
+<g class="flip" style="transform-origin:824px 114px;animation-delay:3.16s"><svg x="804" y="94" width="40" height="40" viewBox="0 0 24 24" fill="none" stroke="#2ef06a" stroke-width="1.6" stroke-linecap="round" stroke-linejoin="round"><path d="M12.83 2.18a2 2 0 0 0-1.66 0L2.6 6.08a1 1 0 0 0 0 1.83l8.58 3.91a2 2 0 0 0 1.66 0l8.58-3.9a1 1 0 0 0 0-1.83z"/><path d="M2 12a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 12"/><path d="M2 17a1 1 0 0 0 .58.91l8.6 3.91a2 2 0 0 0 1.65 0l8.58-3.9A1 1 0 0 0 22 17"/></svg></g>
+<text class="sans lb" x="824" y="165">Canvas API</text>
+</g>
+<g class="beam"><rect x="-170" y="0" width="170" height="214" fill="url(#beamGrad)"/><rect x="-85.5" y="0" width="1" height="214" fill="#2ef06a" opacity=".28"/></g>
+</g><rect x=".5" y=".5" width="999" height="213" rx="22" fill="none" stroke="#ffffff" stroke-opacity=".09"/>
+</svg>

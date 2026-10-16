@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="155" height="48" viewBox="0 0 155 48" role="img" aria-labelledby="title desc">
+<title id="title">LinkedIn</title>
+<desc id="desc">LinkedIn</desc>
+<defs><style>
+.sans{font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif}
+.display{font-family:'Anton', Impact, 'Arial Narrow Bold', sans-serif}
+@keyframes fadeUp{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes fadeIn{from{opacity:0}to{opacity:1}}
+@keyframes rise{from{transform:translateY(112%)}to{transform:none}}
+@keyframes spin{to{transform:rotate(360deg)}}
+@keyframes ping{0%{transform:scale(1);opacity:.6}70%,100%{transform:scale(3.4);opacity:0}}
+@keyframes breathe{0%,100%{opacity:.55}50%{opacity:1}}
+.fu{animation:fadeUp .9s cubic-bezier(0.16, 1, 0.3, 1) both}
+.fi{animation:fadeIn 1.2s cubic-bezier(0.16, 1, 0.3, 1) both}
+.rv{transform-box:fill-box;animation:rise 1s cubic-bezier(0.16, 1, 0.3, 1) both}
+.ping{transform-box:fill-box;transform-origin:center;animation:ping 2s cubic-bezier(0,0,.2,1) infinite}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+
+.label{font:600 15px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;fill:#ededed}
+@keyframes shine{0%{transform:translateX(0) skewX(-20deg)}35%,100%{transform:translateX(295px) skewX(-20deg)}}
+.shine{animation:shine 4s cubic-bezier(.45,0,.25,1) 1.4s infinite both}
+@keyframes edge{0%,100%{stroke:#ffffff;stroke-opacity:.16}50%{stroke:#2ef06a;stroke-opacity:.55}}
+.edge{animation:edge 4s ease-in-out 0.6s infinite}
+@keyframes nudge{0%,70%,100%{transform:none}80%{transform:translate(2px,-2px)}}
+.nudge{animation:nudge 3s ease-in-out 1.8s infinite}
+</style><clipPath id="pill"><rect width="155" height="48" rx="24"/></clipPath><linearGradient id="shineGrad" x1="0" x2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".5" stop-color="#fff" stop-opacity=".55"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient></defs>
+<rect class="edge" x=".75" y=".75" width="153.5" height="46.5" rx="23.25" fill="#141416" stroke="#ffffff" stroke-opacity=".16" stroke-width="1.5"/>
+<g color="#ededed"><svg x="22" y="15" width="18" height="18" viewBox="0 0 24 24"  overflow="visible"><path fill="currentColor" d="M19 3a2 2 0 0 1 2 2v14a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2zm-.5 15.5v-5.3a3.26 3.26 0 0 0-3.26-3.26c-.85 0-1.84.52-2.32 1.3v-1.11h-2.79v8.37h2.79v-4.93c0-.77.62-1.4 1.39-1.4a1.4 1.4 0 0 1 1.4 1.4v4.93zM6.88 8.56a1.68 1.68 0 0 0 1.68-1.68c0-.93-.75-1.69-1.68-1.69a1.69 1.69 0 0 0-1.69 1.69c0 .93.76 1.68 1.69 1.68m1.39 9.94v-8.37H5.5v8.37z"/></svg></g>
+<text class="label" x="50" y="29.5">LinkedIn</text>
+<g class="nudge"><svg x="119.22" y="17" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="#9a9a9a" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M7 7h10v10"/><path d="M7 17 17 7"/></svg></g>
+</svg>
