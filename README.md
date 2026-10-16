@@ -132,56 +132,11 @@ const samiullah = {
 
 <br />
 
-<a name="experience"></a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/headings/experience-dark.svg" />
-  <img src="./assets/svg/headings/experience-light.svg" width="100%" alt="03 Career: Experience" />
-</picture>
-
-### 🟢 Full-Stack Developer · JayTech Elite Firm
-
-`Sept 2026 – Present` &nbsp; **Product:** [SmokeScreen](https://smokescreenapp.com/) V1 & V2 &nbsp; **Deployed:** Railway · Hostinger
-
-SmokeScreen is a live AI video streaming SaaS: a creator's webcam feed is transformed by AI in real time and broadcast into WhatsApp, Telegram, Zoom and Meet through OBS, with credit-based billing and tiered plans. I work alongside the company's Lead Developer through feature branches and pull requests. On V2 I designed the product and built most of it end to end.
-
-- 🎨 **Design system & 35+ page frontend:** the full UI and design system, responsive from small phones to large screens
-- 🎬 **Live Studio:** webcam capture, real-time AI scene transformation (16 scenes by plan), MP4 recording, OBS capture and a hardened Go Live flow with retries and a photo fallback
-- 🗄️ **Express + Supabase backend:** accounts, plans, license keys, a credit ledger, referrals, notifications, uploads, plan expiry jobs and NGN pricing over a REST API
-- 💳 **Payments & billing:** Flutterwave with signed webhook verification and idempotent fulfillment, Squad as a backup gateway, per-second credit metering during live sessions
-- ✨ **AI creative tools:** Gemini photo editing, photo-to-video via fal.ai, MiniMax voice cloning and a WebAssembly video-to-MP3 converter running in Web Workers
-- 🛡️ **Admin, security & quality:** a full admin control center, JWT + Google sign-in, Supabase Row Level Security, Resend emails, and Jest + Supertest suites on GitHub Actions
-
-<details>
-<summary><b>V1 production fixes</b></summary>
-<br />
-
-- 🐛 Diagnosed and fixed a recurring WebSocket / Node.js server crash by adding a WebSocket transport for Supabase Realtime and pinning the Node engine
-- 📷 Fixed a stretched-face rendering bug in the AI live portrait mode of the camera pipeline
-- 📱 Shipped a portrait-mode dashboard alongside landscape, with an OBS / theatre capture mode and true 9:16 snapshot export
-- 💳 Fixed a Flutterwave bug where paid users were not upgraded, by correcting the sync between payment confirmation and account state
-
-</details>
-
-### Web Development Intern · Decode Labs
-
-`July 2026` &nbsp; **Remote** &nbsp; **Review:** GitHub-based
-
-Structured weekly assignments in a remote, asynchronous environment, with clean GitHub commit histories across concurrent deliverables, ending in a vanilla JavaScript DOM curriculum approved and certified by supervisors.
-
-### Web Development Intern · Qwetrum Technologies
-
-`June 2026` &nbsp; **Capstone:** [Movie Browser](https://movie-browser-khaki-seven.vercel.app/)
-
-Weekly tasks under supervisor review, ending in the Movie Browser capstone: a React app built on custom hooks and the TMDB API, delivered after iterative revisions and certified on final approval.
-
-<br />
-
 <a name="projects"></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/headings/projects-dark.svg" />
-  <img src="./assets/svg/headings/projects-light.svg" width="100%" alt="04 Work: Selected Projects" />
+  <img src="./assets/svg/headings/projects-light.svg" width="100%" alt="03 Work: Selected Projects" />
 </picture>
 
 <a href="https://smokescreenapp.com/">
@@ -253,7 +208,7 @@ A creator turns on their webcam, picks a scene, and an AI model transforms how t
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/headings/education-dark.svg" />
-  <img src="./assets/svg/headings/education-light.svg" width="100%" alt="05 Learning: Education" />
+  <img src="./assets/svg/headings/education-light.svg" width="100%" alt="04 Learning: Education" />
 </picture>
 
 ### 🎓 Bachelor of Science in Computer Science (BSCS)
@@ -278,7 +233,7 @@ Coursework: Data Structures · Object-Oriented Programming · Database Systems �
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/headings/activity-dark.svg" />
-  <img src="./assets/svg/headings/activity-light.svg" width="100%" alt="06 Activity: On GitHub" />
+  <img src="./assets/svg/headings/activity-light.svg" width="100%" alt="05 Activity: On GitHub" />
 </picture>
 
 <p align="center">
@@ -306,14 +261,6 @@ Coursework: Data Structures · Object-Oriented Programming · Database Systems �
 </a>
 
 <p align="center">
-  <a href="mailto:samiullah.akram.3009@gmail.com"><img src="./assets/svg/buttons/email.svg" height="44" alt="Email me" /></a>&nbsp;
-  <a href="https://www.linkedin.com/in/samiullah-akram-a28461404/"><img src="./assets/svg/buttons/linkedin.svg" height="44" alt="LinkedIn" /></a>&nbsp;
-  <a href="https://www.upwork.com/freelancers/~01ffa5cf678d8eff63"><img src="./assets/svg/buttons/upwork.svg" height="44" alt="Upwork" /></a>&nbsp;
-  <a href="https://samiullah-portfolio-orpin.vercel.app/"><img src="./assets/svg/buttons/portfolio.svg" height="44" alt="Portfolio" /></a>
-</p>
-
-<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Samiullah-2004&color=2ef06a&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
 </p>
 
-<p align="center"><sub>Designed &amp; built by Samiullah, in the same style as <a href="https://samiullah-portfolio-orpin.vercel.app/">my portfolio</a>.</sub></p>
