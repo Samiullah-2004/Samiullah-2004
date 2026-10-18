@@ -48,44 +48,6 @@ Before that I completed web development internships at **Qwetrum Technologies** 
 
 <img src="./assets/svg/strengths.svg" width="100%" alt="What I do best: AI and RAG products, real-time systems, payments and SaaS billing, design to deployment." />
 
-```javascript
-const samiullah = {
-  role: "Full-Stack Developer",
-  location: "Lahore, Pakistan 🇵🇰",
-  now: "Building SmokeScreen V2, a live AI video SaaS, @ JayTech Elite Firm",
-
-  experience: [
-    "Full-Stack Developer @ JayTech Elite Firm (Sept 2026 – Present)",
-    "Web Development Intern @ Decode Labs (July 2026)",
-    "Web Development Intern @ Qwetrum Technologies (June 2026)",
-  ],
-  education: "BSCS @ Alhamra University (NCBA&E) · 2024 – 2028 · CGPA 3.67 / 4.0",
-
-  coreStack: {
-    languages: ["JavaScript", "TypeScript", "SQL"],
-    frontend:  ["React.js", "Next.js", "Redux", "Tailwind CSS", "Vite", "React Hook Form", "React Router"],
-    backend:   ["Node.js", "Express.js", "REST APIs", "GraphQL", "Apollo Server", "Zod", "Multer", "Webhooks"],
-    auth:      ["JWT", "OAuth", "NextAuth", "bcrypt", "Row Level Security"],
-    realtime:  ["Socket.IO", "WebRTC", "WebSockets"],
-    databases: ["PostgreSQL", "Prisma ORM", "pgvector", "Supabase", "MongoDB", "Mongoose", "DynamoDB",
-                "MySQL", "SQLite"],
-    ai:        ["Groq (Llama 3.3)", "Google Gemini", "Hugging Face Embeddings", "Claude", "OpenRouter",
-                "fal.ai", "MiniMax", "RAG Pipelines"],
-    payments:  ["Stripe", "Flutterwave", "Squad"],
-    motion:    ["GSAP", "Framer Motion", "Lenis"],
-    testing:   ["Jest", "Vitest", "Supertest", "Playwright"],
-    devops:    ["Docker", "Kubernetes", "AWS (EC2 · ECS · ECR)", "GitHub Actions", "Nginx"],
-    deploy:    ["Vercel", "Railway", "Render", "Hostinger", "Supabase"],
-    tools:     ["Git", "GitHub", "VS Code", "Postman", "Cloudinary", "AWS SDK"],
-  },
-
-  openSource: "First external contributor to get a PR merged into klorn",
-  currentlyLearning: ["Agentic AI (LangChain / LangGraph, MCP)", "Python for AI/ML tooling",
-                      "Advanced RAG architectures"],
-  openTo: "Remote full-stack roles & freelance projects",
-};
-```
-
 <br />
 
 <a name="stack"></a>
