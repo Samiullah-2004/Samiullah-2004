@@ -21,7 +21,6 @@
 <p align="center">
   <a href="#about"><b>About</b></a> &nbsp;·&nbsp;
   <a href="#stack"><b>Stack</b></a> &nbsp;·&nbsp;
-  <a href="#experience"><b>Experience</b></a> &nbsp;·&nbsp;
   <a href="#projects"><b>Projects</b></a> &nbsp;·&nbsp;
   <a href="#education"><b>Education</b></a> &nbsp;·&nbsp;
   <a href="#activity"><b>Activity</b></a> &nbsp;·&nbsp;
@@ -94,45 +93,11 @@ Before that I completed web development internships at **Qwetrum Technologies** 
 
 <br />
 
-<a name="experience"></a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/headings/experience-dark.svg" />
-  <img src="./assets/svg/headings/experience-light.svg" width="100%" alt="03 Career: Experience" />
-</picture>
-
-### 💼 Full-Stack Developer · JayTech Elite Firm
-`Sept 2026 – Present`
-
-Full-Stack Developer on **SmokeScreen**, a live AI video streaming SaaS, working with the Lead Developer on V1 and the V2 rebuild (now live) through a PR-based Git workflow. I handle daily production fixes, monitoring and client feedback.
-
-- **V1:** fixed a recurring WebSocket / Node.js server crash, a stretched-face bug in the live camera pipeline and a Flutterwave bug where paid users were not upgraded; shipped a portrait-mode dashboard with OBS / theatre capture and 9:16 snapshot export.
-- **V2 frontend:** designed the design system and built the 35+ page responsive frontend plus the live studio: webcam capture, real-time AI scene transformation (16 scenes by plan), editable prompts, MP4 recording, screenshots and OBS capture.
-- **V2 backend & billing:** built the Express + Supabase backend: Flutterwave payments with signed webhook verification and idempotent fulfillment, a Squad backup gateway, per-second credit metering, plan expiry, license keys and referrals.
-- **V2 AI tools & ops:** shipped Gemini photo editing, fal.ai / Wan photo-to-video and MiniMax voice cloning (WebAssembly MP3 encoding in Web Workers), an admin control center, and Jest / Supertest suites on GitHub Actions; deployed on Railway and Hostinger.
-
-### 🧑‍💻 Web Development Intern · Qwetrum Technologies
-`June 2026`
-
-- Built **Movie Browser**, a full-featured React app using custom hooks and the TMDB API for live movie data, including authentication flows and dynamic rendering.
-- Delivered it as the capstone after revisions from weekly supervisor review, ending in final approval and certification.
-
-### 🧑‍💻 Web Development Intern · Decode Labs
-`July 2026`
-
-- Delivered weekly full-stack assignments in a remote, asynchronous team, keeping clean GitHub commit histories across concurrent deliverables.
-- Completed a vanilla JS DOM manipulation curriculum, approved and certified by supervisors after GitHub-based review.
-
-> [!TIP]
-> **Problems I've solved in production:** WebRTC signaling race conditions · a recurring WebSocket / Node.js server crash · a Flutterwave payment-status sync bug · a live-video fail-safe that never exposes a user's real face.
-
-<br />
-
 <a name="projects"></a>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/headings/projects-dark.svg" />
-  <img src="./assets/svg/headings/projects-light.svg" width="100%" alt="04 Work: Selected Projects" />
+  <img src="./assets/svg/headings/projects-light.svg" width="100%" alt="03 Work: Selected Projects" />
 </picture>
 
 <a href="https://smokescreenapp.com/">
@@ -143,7 +108,7 @@ A creator turns on their webcam, picks a scene, and an AI model transforms how t
 
 The live pipeline uses short-lived provider tokens, Decart Lucy 2.5 with a 2.1 fallback, photo-safe retries, billing only while the AI picture is playing, and a watchdog so an outage never shows a real face or charges a user.
 
-[**Live site ↗︎**](https://smokescreenapp.com/) &nbsp;·&nbsp; [**My role at JayTech**](#experience)
+[**Live site ↗︎**](https://smokescreenapp.com/)
 
 <table>
   <tr>
@@ -208,7 +173,7 @@ The live pipeline uses short-lived provider tokens, Decart Lucy 2.5 with a 2.1 f
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/headings/education-dark.svg" />
-  <img src="./assets/svg/headings/education-light.svg" width="100%" alt="05 Learning: Education" />
+  <img src="./assets/svg/headings/education-light.svg" width="100%" alt="04 Learning: Education" />
 </picture>
 
 ### 🎓 Bachelor of Science in Computer Science (BSCS)
@@ -233,7 +198,7 @@ Coursework: Data Structures · Object-Oriented Programming · Database Systems �
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/headings/activity-dark.svg" />
-  <img src="./assets/svg/headings/activity-light.svg" width="100%" alt="06 Activity: On GitHub" />
+  <img src="./assets/svg/headings/activity-light.svg" width="100%" alt="05 Activity: On GitHub" />
 </picture>
 
 <p align="center">
