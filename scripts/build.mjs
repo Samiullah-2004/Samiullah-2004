@@ -285,8 +285,9 @@ const BASE_CSS = `
 .fi{animation:fadeIn 1.2s ${EASE} both}
 .rv{transform-box:fill-box;animation:rise 1s ${EASE} both}
 .ping{transform-box:fill-box;transform-origin:center;animation:ping 2s cubic-bezier(0,0,.2,1) infinite}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}
 `
+// No prefers-reduced-motion kill switch: Windows reports "reduce" whenever Settings → Accessibility →
+// Visual effects → Animation effects is off (common on laptops), which froze every card for those viewers.
 
 function doc({ w, h, title, desc, css = '', defs = '', body, font = '' }) {
   return `<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="${w}" height="${h}" viewBox="0 0 ${w} ${h}" role="img" aria-labelledby="title desc">

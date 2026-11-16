@@ -21,6 +21,7 @@
 <p align="center">
   <a href="#about"><b>About</b></a> &nbsp;·&nbsp;
   <a href="#stack"><b>Stack</b></a> &nbsp;·&nbsp;
+  <a href="#experience"><b>Experience</b></a> &nbsp;·&nbsp;
   <a href="#projects"><b>Projects</b></a> &nbsp;·&nbsp;
   <a href="#education"><b>Education</b></a> &nbsp;·&nbsp;
   <a href="#activity"><b>Activity</b></a> &nbsp;·&nbsp;
@@ -38,9 +39,9 @@
 
 ### I design, build and ship end-to-end products, from AI-powered SaaS and real-time systems to secure payments and fast, responsive interfaces.
 
-I'm a Full-Stack Developer working across **React, Next.js, TypeScript, Node.js and PostgreSQL**. I care about the whole product: the design system, the API, the database, the payments, the tests and the deployment.
+I'm a Full-Stack Developer with **2+ years** of experience shipping production web apps across **React, Next.js, TypeScript, Node.js, PostgreSQL and MongoDB**, specialised in AI SaaS (RAG, LLMs), real-time systems (WebRTC, Socket.IO) and payments. I care about the whole product: the design system, the API, the database, the payments, the tests and the deployment.
 
-Right now I'm at **JayTech Elite Firm**, where I designed and built most of **SmokeScreen V2**, a live AI video streaming SaaS: its UI, backend, payment integration, admin tools, testing and deployment on Railway and Hostinger. I also fix production issues on the live V1.
+Right now I'm at **JayTech Elite Firm**, where I co-built **SmokeScreen V2** with the Lead Developer, a live AI video streaming SaaS now in production: its UI, backend, payment integration, admin tools, testing and deployment on Railway and Hostinger. I also handle daily production fixes and monitoring on the live platform.
 
 Before that I completed web development internships at **Qwetrum Technologies** and **Decode Labs**. I'm studying for a BSCS at Alhamra University (NCBA&E) and take on freelance projects through [Upwork](https://www.upwork.com/freelancers/~01ffa5cf678d8eff63).
 
@@ -58,7 +59,7 @@ Before that I completed web development internships at **Qwetrum Technologies** 
 </picture>
 
 <p align="center">
-  <img src="./assets/svg/stack/languages.svg" width="49%" alt="Languages: JavaScript, TypeScript, SQL" />
+  <img src="./assets/svg/stack/languages.svg" width="49%" alt="Languages: JavaScript, TypeScript, Python, SQL" />
   <img src="./assets/svg/stack/payments.svg" width="49%" alt="Payments: Stripe, Flutterwave, Squad" />
 </p>
 <p align="center">
@@ -84,12 +85,46 @@ Before that I completed web development internships at **Qwetrum Technologies** 
   <img src="./assets/svg/stack/cloud-devops.svg" width="100%" alt="Cloud and DevOps: Docker, Kubernetes, AWS, AWS EC2, AWS ECS, AWS ECR, OpenShift, Serverless, Microservices, Nginx, GitHub Actions" />
 </p>
 <p align="center">
-  <img src="./assets/svg/stack/testing.svg" width="49%" alt="Testing: Jest, Vitest, Supertest, Playwright" />
+  <img src="./assets/svg/stack/testing.svg" width="49%" alt="Testing: Jest, Vitest, Supertest, Playwright, Headless Chrome (CDP)" />
   <img src="./assets/svg/stack/deployment.svg" width="49%" alt="Deployment: Vercel, Railway, Render, Hostinger" />
 </p>
 <p align="center">
-  <img src="./assets/svg/stack/tools.svg" width="100%" alt="Tools: Git, GitHub, VS Code, Postman, Cloudinary, Monaco Editor, Recharts" />
+  <img src="./assets/svg/stack/tools.svg" width="100%" alt="Tools: Git, GitHub, VS Code, Postman, Cloudinary, Monaco Editor, Recharts, Electron" />
 </p>
+
+<br />
+
+<a name="experience"></a>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/headings/experience-dark.svg" />
+  <img src="./assets/svg/headings/experience-light.svg" width="100%" alt="03 Career: Experience" />
+</picture>
+
+### 💼 Full-Stack Developer · JayTech Elite Firm
+`Sept 2026 – Present`
+
+Full-Stack Developer on **SmokeScreen**, a live AI video streaming SaaS, working with the Lead Developer on V1 and the V2 rebuild (now live) through a PR-based Git workflow. I handle daily production fixes, monitoring and client feedback.
+
+- **V1:** fixed a recurring WebSocket / Node.js server crash, a stretched-face bug in the live camera pipeline and a Flutterwave bug where paid users were not upgraded; shipped a portrait-mode dashboard with OBS / theatre capture and 9:16 snapshot export.
+- **V2 frontend:** designed the design system and built the 35+ page responsive frontend plus the live studio: webcam capture, real-time AI scene transformation (16 scenes by plan), editable prompts, MP4 recording, screenshots and OBS capture.
+- **V2 backend & billing:** built the Express + Supabase backend: Flutterwave payments with signed webhook verification and idempotent fulfillment, a Squad backup gateway, per-second credit metering, plan expiry, license keys and referrals.
+- **V2 AI tools & ops:** shipped Gemini photo editing, fal.ai / Wan photo-to-video and MiniMax voice cloning (WebAssembly MP3 encoding in Web Workers), an admin control center, and Jest / Supertest suites on GitHub Actions; deployed on Railway and Hostinger.
+
+### 🧑‍💻 Web Development Intern · Qwetrum Technologies
+`June 2026`
+
+- Built **Movie Browser**, a full-featured React app using custom hooks and the TMDB API for live movie data, including authentication flows and dynamic rendering.
+- Delivered it as the capstone after revisions from weekly supervisor review, ending in final approval and certification.
+
+### 🧑‍💻 Web Development Intern · Decode Labs
+`July 2026`
+
+- Delivered weekly full-stack assignments in a remote, asynchronous team, keeping clean GitHub commit histories across concurrent deliverables.
+- Completed a vanilla JS DOM manipulation curriculum, approved and certified by supervisors after GitHub-based review.
+
+> [!TIP]
+> **Problems I've solved in production:** WebRTC signaling race conditions · a recurring WebSocket / Node.js server crash · a Flutterwave payment-status sync bug · a live-video fail-safe that never exposes a user's real face.
 
 <br />
 
@@ -97,16 +132,18 @@ Before that I completed web development internships at **Qwetrum Technologies** 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/headings/projects-dark.svg" />
-  <img src="./assets/svg/headings/projects-light.svg" width="100%" alt="03 Work: Selected Projects" />
+  <img src="./assets/svg/headings/projects-light.svg" width="100%" alt="04 Work: Selected Projects" />
 </picture>
 
 <a href="https://smokescreenapp.com/">
   <img src="./assets/svg/projects/smokescreen.svg" width="100%" alt="SmokeScreen: live AI video transformation SaaS. Client project for JayTech Elite Firm." />
 </a>
 
-A creator turns on their webcam, picks a scene, and an AI model transforms how they look and where they are, live. I designed the V2 rebuild and built most of it: the design system and 35+ pages, the Express + Supabase backend, card payments and per-second credit billing, AI creative tools, the admin panel, tests and deployment.
+A creator turns on their webcam, picks a scene, and an AI model transforms how they look and where they are, live, then streams it through OBS into Zoom, Meet, Telegram or WhatsApp. I co-built the V2 rebuild, now live in production: the design system and 35+ pages, the Express + Supabase backend (Postgres, Storage, Row Level Security), USD / NGN credit top-ups with per-second billing, license-key activation, AI creative tools, the admin panel, tests and deployment.
 
-[**Live site (V1) ↗︎**](https://smokescreenapp.com/) &nbsp;·&nbsp; [**My role at JayTech**](#experience)
+The live pipeline uses short-lived provider tokens, Decart Lucy 2.5 with a 2.1 fallback, photo-safe retries, billing only while the AI picture is playing, and a watchdog so an outage never shows a real face or charges a user.
+
+[**Live site ↗︎**](https://smokescreenapp.com/) &nbsp;·&nbsp; [**My role at JayTech**](#experience)
 
 <table>
   <tr>
@@ -124,7 +161,7 @@ A creator turns on their webcam, picks a scene, and an AI model transforms how t
   <tr>
     <td width="50%" valign="top">
       <a href="https://comptoir-food.vercel.app/"><img src="./assets/svg/projects/comptoir.svg" width="100%" alt="Comptoir: full-stack restaurant ordering platform" /></a>
-      <p>Browse a live GraphQL menu, pay with Stripe and track the order over Socket.IO. Admin analytics with Recharts, a RAG concierge powered by ChatSpark, Docker + Kubernetes, Vitest / Supertest / Playwright, and CI/CD across 50 pull requests.</p>
+      <p>Browse a live GraphQL menu, pay with Stripe and track the order over Socket.IO. A GraphQL API on Apollo Server v5, admin menu CRUD with Cloudinary uploads and Recharts analytics, a RAG concierge powered by ChatSpark, Docker + Kubernetes (Minikube), 21 Vitest / Supertest tests plus Playwright E2E, and CI/CD across 50 pull requests.</p>
       <p><a href="https://comptoir-food.vercel.app/"><b>Live ↗︎</b></a> &nbsp;·&nbsp; <a href="https://github.com/Samiullah-2004/Comptoir"><b>Code ↗︎</b></a></p>
     </td>
     <td width="50%" valign="top">
@@ -157,6 +194,8 @@ A creator turns on their webcam, picks a scene, and an AI model transforms how t
 | **LivePin** | Live multi-user location tracking on an interactive map | Node.js · Socket.IO · Leaflet.js | [Code](https://github.com/Samiullah-2004/LivePin) |
 | **Movie Browser** | Movie discovery app, my Qwetrum internship capstone | React · TMDB API · Tailwind CSS | [Live](https://movie-browser-khaki-seven.vercel.app/) · [Code](https://github.com/Samiullah-2004/Movie-Browser) |
 | **Paste App** | Snippet manager with a single Redux store, live word counts and search | React · Redux Toolkit · React Router | [Live](https://paste-app-pied-iota.vercel.app/) · [Code](https://github.com/Samiullah-2004/Paste-App) |
+| **Toolbox** | All-in-one web toolkit for PDF, audio, video and image files; most tools run privately in the browser, heavy jobs (OCR, document scanning) on a Python backend | TypeScript · Rust/WASM · ffmpeg.wasm · Python (FastAPI) | [Code](https://github.com/Samiullah-2004/Toolbox) |
+| **Currency Exchange** | Real-time currency converter using live exchange-rate APIs | HTML · CSS · JavaScript | [Live](https://samiullah-2004.github.io/Currency-Exchange-App/) · [Code](https://github.com/Samiullah-2004/Currency-Exchange-App) |
 | **Crypto Tracker** | Live prices, market caps and 24h changes for the top 10 coins | JavaScript · CoinGecko API | [Live](https://samiullah-2004.github.io/Crypto-Price-Tracker/) · [Code](https://github.com/Samiullah-2004/Crypto-Price-Tracker) |
 | **Skycast** | Minimal weather app for any city in the world | JavaScript · Open-Meteo API | [Live](https://samiullah-2004.github.io/Skycast-Weather-App/) · [Code](https://github.com/Samiullah-2004/Skycast-Weather-App) |
 | **Portfolio** | This design system on the web: GSAP, Lenis, a WebGL grid and a glass cursor | React 19 · GSAP · Tailwind CSS v4 | [Live](https://samiullah-portfolio-orpin.vercel.app/) · [Code](https://github.com/Samiullah-2004/Portfolio) |
@@ -169,7 +208,7 @@ A creator turns on their webcam, picks a scene, and an AI model transforms how t
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/headings/education-dark.svg" />
-  <img src="./assets/svg/headings/education-light.svg" width="100%" alt="04 Learning: Education" />
+  <img src="./assets/svg/headings/education-light.svg" width="100%" alt="05 Learning: Education" />
 </picture>
 
 ### 🎓 Bachelor of Science in Computer Science (BSCS)
@@ -186,7 +225,7 @@ Coursework: Data Structures · Object-Oriented Programming · Database Systems �
 | **Full Stack Web Development** | Amazon · Coursera |
 | **Technology Job Simulation** | Deloitte · Forage |
 
-> 🧩 **Open source:** first external contributor to get a pull request merged into [**klorn**](https://github.com/Samiullah-2004/klorn), after two rounds of maintainer review.
+> 🧩 **Open source:** first external contributor to get a pull request merged into [**klorn**](https://github.com/k08200/klorn), after two rounds of maintainer review.
 
 <br />
 
@@ -194,11 +233,11 @@ Coursework: Data Structures · Object-Oriented Programming · Database Systems �
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/svg/headings/activity-dark.svg" />
-  <img src="./assets/svg/headings/activity-light.svg" width="100%" alt="05 Activity: On GitHub" />
+  <img src="./assets/svg/headings/activity-light.svg" width="100%" alt="06 Activity: On GitHub" />
 </picture>
 
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=Samiullah-2004&show_icons=true&include_all_commits=true&hide_border=true&border_radius=18&bg_color=0A0A0B&title_color=2EF06A&icon_color=2EF06A&text_color=CFCFCF&ring_color=2EF06A" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats.shion.dev/api?username=Samiullah-2004&show_icons=true&include_all_commits=true&hide_border=true&border_radius=18&bg_color=0A0A0B&title_color=2EF06A&icon_color=2EF06A&text_color=CFCFCF&ring_color=2EF06A&hide_rank=true" height="170" alt="GitHub stats" />
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Samiullah-2004&layout=compact&hide_border=true&border_radius=18&bg_color=0A0A0B&title_color=2EF06A&text_color=CFCFCF" height="170" alt="Top languages" />
 </p>
 

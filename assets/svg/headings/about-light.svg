@@ -14,7 +14,6 @@
 .fi{animation:fadeIn 1.2s cubic-bezier(0.16, 1, 0.3, 1) both}
 .rv{transform-box:fill-box;animation:rise 1s cubic-bezier(0.16, 1, 0.3, 1) both}
 .ping{transform-box:fill-box;transform-origin:center;animation:ping 2s cubic-bezier(0,0,.2,1) infinite}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}
 
 .eb{font:600 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;letter-spacing:.22em;fill:#59636e;text-transform:uppercase}
 .eb-i{font:600 12px -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Noto Sans', Helvetica, Arial, sans-serif;letter-spacing:.22em;fill:#12a148;text-transform:uppercase}

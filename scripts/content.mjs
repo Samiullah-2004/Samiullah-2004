@@ -35,6 +35,7 @@ export const skillCategories = [
     items: [
       { name: 'JavaScript', icon: 'Animated/javascript-original.svg' },
       { name: 'TypeScript', icon: 'Animated/typescript-original.svg' },
+      { name: 'Python', icon: 'lucide:terminal' },
       { name: 'SQL', icon: 'lucide:database' },
     ],
   },
@@ -139,6 +140,7 @@ export const skillCategories = [
       { name: 'Vitest', icon: 'Logos/vitest.svg' },
       { name: 'Supertest', icon: 'lucide:flask-conical' },
       { name: 'Playwright', icon: 'Logos/playwright.svg' },
+      { name: 'Headless Chrome (CDP)', icon: 'lucide:bot' },
     ],
   },
   {
@@ -176,6 +178,7 @@ export const skillCategories = [
       { name: 'Cloudinary', icon: 'Logos/cloudinary.svg' },
       { name: 'Monaco Editor', icon: 'lucide:square-code' },
       { name: 'Recharts', icon: 'lucide:chart-line' },
+      { name: 'Electron', icon: 'lucide:app-window' },
     ],
   },
   {
@@ -224,16 +227,23 @@ export const headings = [
     aside: '{skillCount} languages, frameworks, services and tools I use to design, build, test and ship.',
   },
   {
-    slug: 'projects',
+    slug: 'experience',
     index: '03',
+    kicker: 'Career',
+    title: 'Experience',
+    aside: 'Production work on a live AI video SaaS, plus two web development internships.',
+  },
+  {
+    slug: 'projects',
+    index: '04',
     kicker: 'Work',
     title: 'Selected Projects',
     aside: "A few products I've designed, built and deployed, from a live AI video SaaS to RAG chatbots and real-time apps.",
   },
-  { slug: 'education', index: '04', kicker: 'Learning', title: 'Education' },
+  { slug: 'education', index: '05', kicker: 'Learning', title: 'Education' },
   {
     slug: 'activity',
-    index: '05',
+    index: '06',
     kicker: 'Activity',
     title: 'On GitHub',
     aside: 'Commits, streaks and contributions, refreshed automatically.',
@@ -271,7 +281,7 @@ export const projects = [
     subtitle: 'Live AI video transformation SaaS',
     eyebrow: 'Client project · JayTech Elite Firm',
     url: 'smokescreenapp.com',
-    status: 'V1 LIVE',
+    status: 'LIVE',
     wide: true,
     tags: ['Node.js', 'Express', 'Supabase', 'Live AI Video', 'Flutterwave', 'Google Gemini', 'Jest', 'GitHub Actions'],
     stats: [

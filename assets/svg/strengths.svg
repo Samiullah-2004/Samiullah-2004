@@ -14,7 +14,6 @@
 .fi{animation:fadeIn 1.2s cubic-bezier(0.16, 1, 0.3, 1) both}
 .rv{transform-box:fill-box;animation:rise 1s cubic-bezier(0.16, 1, 0.3, 1) both}
 .ping{transform-box:fill-box;transform-origin:center;animation:ping 2s cubic-bezier(0,0,.2,1) infinite}
-@media (prefers-reduced-motion:reduce){*{animation:none!important}}
 
 .stt{font-size:17.5px;font-weight:600;fill:#ededed}
 .sd{font-size:14.5px;fill:#9a9a9a}
