@@ -119,7 +119,7 @@ The live pipeline uses short-lived provider tokens, Decart Lucy 2.5 with a 2.1 f
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Samiullah-2004/codemeet-ai"><img src="./assets/svg/projects/codemeet.svg" width="100%" alt="CodeMeet AI: real-time technical interview platform" /></a>
-      <p>Live technical interviews in one room: peer-to-peer WebRTC video, a synced Monaco editor, chat and Gemini code review. Socket.IO signaling on AWS EC2, DynamoDB sessions, and client-side call recording with zero storage cost.</p>
+      <p>Live technical interviews in one room: peer-to-peer WebRTC video, a synced Monaco editor, chat and Gemini code review. Socket.IO signaling built for AWS EC2, containerised with Docker, DynamoDB sessions, and client-side call recording with zero storage cost.</p>
       <p><a href="https://github.com/Samiullah-2004/codemeet-ai"><b>Code ↗︎</b></a></p>
     </td>
   </tr>
