@@ -188,9 +188,8 @@ Coursework: Data Structures · Object-Oriented Programming · Database Systems �
 | **Generative AI with Large Language Models** | DeepLearning.AI & AWS · Coursera |
 | **AWS Cloud Technical Essentials** | Amazon Web Services · Coursera |
 | **Full Stack Web Development** | Amazon · Coursera |
-| **Technology Job Simulation** | Deloitte · Forage |
 
-> 🧩 **Open source:** first external contributor to get a pull request merged into [**klorn**](https://github.com/k08200/klorn), after two rounds of maintainer review.
+> 🧩 **Open source:** first external contributor to get a [pull request merged into klorn](https://github.com/k08200/klorn/pull/1178), after two rounds of maintainer review.
 
 <br />
 
